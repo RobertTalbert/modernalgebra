@@ -7,9 +7,17 @@ Learning Objectives for MTH 410: Modern Algebra 2
 + Each section contains __Fundamentals__ and __Content__ objectives. __Fundamentals__ refer to definitions and mathematical results each student should be able to state and apply to basic tasks. __Content__ objectives refer to higher-level tasks to be performed using the Fundamentals. 
 + The following objectives are assumed to be in place for every investigation: 
     * State all definitions and mathematical results included in the list of Fundamentals. 
-    * Construct examples and nonexamples of all objects whose definitions are listed in the Fundamentals. 
-    * Apply 
+    * For all objects whose definitions are in the Fundamentals, construct examples and non-examples of those objects. 
+    * For all computational items whose definitions are in the Fundamentals, calculate that item in a simple setting.  
+    * Apply statements of mathematical results listed in the Fundamentals to simple cases. 
     * Explain the structure and strategy of the proof for each mathematical result listed in the Fundamentals. 
+
+For example: 
+
++ In Investigation 20, the Fundamental terms are _group_, _abelian group_, _order_ of a group; and _unit_. You should be able to state the definitions for each of these. Additionally: 
+    * _Group_, _Abelian group_, and _unit_ define __objects__. So you should be able to give examples of groups and examples of things that are not groups; examples of Abelian groups and examples of things that are not Abelian groups; and examples of units and examples of things that are not units. 
+    * _Order_ refers to a computation, so if you are given a group, you should be able to compute its order. 
+
 
 # Objectives for MTH 410 
 
@@ -37,8 +45,7 @@ Content:
 + Prove or disprove that a set with a binary operation forms a group. 
 + Identify the identity element in a group. 
 + Given an element in a group, identify its inverse. 
-+ Determine whether a group is Abelian. 
-+ Determine whether a group has finite or infinite order. If finite, state the order of the group. 
+
 
 ## 21: Integer Powers of Elements of a Group
 
