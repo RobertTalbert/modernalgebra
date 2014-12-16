@@ -163,8 +163,8 @@ Content:
 
 Fundamentals: 
 
-+ Definitions: 
-+ Mathematical results: 
++ Definitions: Homomorphism of groups; epimorphism; monomorphism; homomorphic image; kernel of a homomorphism; image of a homomorphism
++ Mathematical results: Theorem 30.4; Theorem 30.8; Theorem 30.13 (The First Isomorphism Theorem); Theorem 30.16 (The Second Isomorphism Theorem); Theorem 30.18 (The Third Isomorphism Theorem); Theorem 30.19 (The Fourth Isomorphism Theorem); Theorem 30.22
 
 Content: 
 
@@ -177,8 +177,8 @@ Content:
 
 Fundamentals: 
 
-+ Definitions: 
-+ Mathematical results: 
++ Definitions: p-group; p-primary component of a group; 
++ Mathematical results: Theorem 31.3; Corollary 31.6; Theorem 31.13 (Fundamental Theorem of Finite Abelian Groups)
 
 Content: 
 
@@ -188,8 +188,8 @@ Content:
 
 Fundamentals: 
 
-+ Definitions: 
-+ Mathematical results: 
++ Definitions: The "conjugate" relation; conjugacy class; centralizer; Sylow p-subgroup
++ Mathematical results: Theorem 32.12 (The Class Equation); Theorem 32.14; Corollary 32.16; Theorem 32.17 (Cauchy's Theorem); Theorem 32.20 (First Sylow Theorem)
 
 Content: 
 
@@ -201,20 +201,19 @@ Content:
 
 Fundamentals: 
 
-+ Definitions: 
-+ Mathematical results: 
++ Definitions: Normalizer; 
++ Mathematical results: Lemma 33.3; Lemma 33.9; Lemma 33.10; Theorem 33.12 (Second Sylow Theorem); Theorem 33.13 (Third Sylow Theorem)
 
 Content: 
 
-+ Given a group G and  subgroups H, K, and N, determine whether K is H-conjugate to N. 
 + Determine the normalizer of a subgroup in a group. 
 
 ## 16: Rings: Ideals and Homomorphisms
 
 Fundamentals: 
 
-+ Definitions: 
-+ Mathematical results: 
++ Definitions: Ideal; principal ideal; principal ideal domain; Euclidean domain; associates; congruence modulo an ideal; maximal ideal; prime ideal; homomorphism of rings; monomorphism, epimorphism, and isomorphism of rings; kernel of a ring homomorphism; image of a ring homomorphism
++ Mathematical results: Theorem 16.4 (Ideal Test); Theorem 16.8; Theorem 16.10; Lemma 16.11; Theorem 16.13; Lemma 16.16; Theorem 16.24; Theorem 16.27; Euclid's Lemma; Theorem 16.34; Theorem 16.39; Theorem 16.42; Theorem 16.43; Theorem 16.46; Theorem 16.48 (First Isomorphism Theorem for Rings) 
 
 Content: 
 
