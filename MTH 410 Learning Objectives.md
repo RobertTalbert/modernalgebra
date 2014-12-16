@@ -8,6 +8,8 @@ For every investigation in the book:
 + State the definitions of all terms that are defined. 
 + State all mathematical results (Theorems, etc.) and know by name the ones that have names (e.g. Lagrange's Theorem). 
 + Write complete proofs for all results labelled "Theorem" and summarize the logic and structure of each proof. 
++ Construct complete, clear, and correct proofs for all important results. 
++ Apply mathematical results to specific instances to draw conclusions and make calculations. 
 
 # Symmetry
 
@@ -39,26 +41,75 @@ For every investigation in the book:
 
 # Subgroups of Cyclic Groups
 
-+ 
++ Use Theorem 23.2 to determine information about subgroups of a cyclic group. 
++ Use Theorem 23.5 to determine information about the order of an element in a cyclic group. 
++ Determine subgroups of a given order in a cyclic group using Theorem 23.7. 
 
 # The Dihedral Groups
 
++ Create operation tables for a dihedral group. 
++ Determine a presentation for a dihedral group. 
+
 # The Symmetric Groups
+
++ Write a permutation in cycle notation. 
++ Decompose a permutation into a product of disjoint cycles. 
++ Determine whether a permutation is even or odd. 
 
 # Cosets and Lagrange's Theorem
 
++ Given a group G, a subgroup H, and an group element a, determine the left coset aH of H in G and the right coset Ha of H in G. 
++ Use Lagrange's Theorem to determine information about the order of a subgroup of a group. 
++ Use the Corollaries to Lagrange's Theorem to determine information about subgroups of a group and about powers of elements of a group. 
++ Find the index of a subgroup in a group. 
+
 # Normal Subgroups and Quotient Groups
+
++ Determine the set $G/H$ of distinct left cosets of H in G. 
++ Determine whether a subgroup of a group is normal. 
++ Determine the quotient group $G/N$ of G by a normal subgroup N. 
 
 # Products of Groups
 
++ Determine the external direct product of two groups. 
++ Determine the order of an element in a direct product. 
++ Determine the internal direct product of two groups. 
+
 # Group Isomorphisms and Invariants
+
++ Determine whether a function between two groups is an isomorphism. 
++ Show two groups are isomorphic by constructing an isomorphism between them. 
++ Determine whether a mapping is well-defined. 
++ State several examples of properties that are invariant under isomorphism. 
 
 # Homomorphisms and Isomorphism Theorems
 
++ Determine whether a function between two groups is a homomorphism (epimorphism, monomorphism). 
++ Determine the kernel of a homomorphism. 
++ Determine the image of a homomorphism. 
+
 # The Fundamental Theorem of Finite Abelian Groups
+
++ TBA. 
 
 # The First Sylow Theorem
 
++ Determine if two elements in a group are conjugate. 
++ Determine the conjugacy class of a group element. 
++ Determine the centralizer of a group. 
+
 # The Second and Third Sylow Theorem
 
++ Given a group G and  subgroups H, K, and N, determine whether K is H-conjugate to N. 
++ Determine the normalizer of a subgroup in a group. 
+
 # Rings: Ideals and Homomorphisms
+
++ Determine whether a subset of a ring is an ideal of that ring. 
++ Determine whether an ideal of a ring is a principal ideal. 
++ Determine if a ring is a principal ideal domain. 
++ Determine if a ring is a Euclidean domain. 
++ Given a ring R and an ideal I, determine whether two ring elements are congruent modulo I. 
++ Determine if an ideal in a ring is maximal or prime. 
++ Determine if a function between two rings is a ring homomorphism. 
++ Determine the kernel and image of a ring homomorphism. 
