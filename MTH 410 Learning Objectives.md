@@ -12,11 +12,14 @@ Learning Objectives for MTH 410: Modern Algebra 2
     * Apply statements of mathematical results listed in the Fundamentals to simple cases. 
     * Explain the structure and strategy of the proof for each mathematical result listed in the Fundamentals. 
 
-For example: 
+For example: In Investigation 20, the fundamental terms are _group_, _abelian group_, _order_ of a group; and _unit_; and the fundamental results are Theorems 20.7 and 20.15. 
 
-+ In Investigation 20, the Fundamental terms are _group_, _abelian group_, _order_ of a group; and _unit_. You should be able to state the definitions for each of these. Additionally: 
++  You should be able to state the definitions for each of of the fundamental terms. Additionally: 
     * _Group_, _Abelian group_, and _unit_ define __objects__. So you should be able to give examples of groups and examples of things that are not groups; examples of Abelian groups and examples of things that are not Abelian groups; and examples of units and examples of things that are not units. 
-    * _Order_ refers to a computation, so if you are given a group, you should be able to compute its order. 
+    * _Order_ refers to a __computation__, so if you are given a group, you should be able to compute its order. 
++ You should also be able to state the statements of both fundamental results. (On concept checks and timed modules, you might be asked to give a full statement of the Theorem results, or you might be asked to fill in the blanks on a partial statement.) Additionally: 
+    * You should be able to describe the outline and strategy of the proof for each of these. Actually _proving_ them both would be ideal, but at the very least give an accurate description of _how_ the proofs go.
+    * You should be able to apply both results to a specific instance. For example, use the result of Theorem 20.7 to solve an equation in a group; use Theorem 20.15 to draw conclusions about a set of units.  
 
 
 # Objectives for MTH 410 
