@@ -1,234 +1,132 @@
-Learning Objectives for MTH 410: Modern Algebra 2
-=================================================
+---
+title: MTH 410 Learning Objectives
+tags: MTH410, specsgrading
+---
 
-# How to read these objectives
+# Understanding these learning objectives
 
-+ Each section heading points to a different Investigation in the Hodge/Schlicker/Sundstrom book. The number of the investigation is included in the heading. 
-+ Each section contains __Fundamentals__ and __Content__ objectives. __Fundamentals__ refer to definitions and mathematical results each student should be able to state and apply to basic tasks. __Content__ objectives refer to higher-level tasks to be performed using the Fundamentals. 
-+ The following objectives are assumed to be in place for every investigation: 
-    * State all definitions and mathematical results included in the list of Fundamentals. 
-    * For all objects whose definitions are in the Fundamentals, construct examples and non-examples of those objects. 
-    * For all computational items whose definitions are in the Fundamentals, calculate that item in a simple setting.  
-    * Apply statements of mathematical results listed in the Fundamentals to simple cases. 
-    * Explain the structure and strategy of the proof for each mathematical result listed in the Fundamentals. 
++ Concept Check (CC) objectives refer to basic information in the course: definitions and examples of terminology, important mathematical results, and basic computation. 
++ Module (M) objectives refer to more advanced concepts in the course, typically assessed by analysis and proof. 
++ Core Module (CORE-M) objectives are a subset of the M objectives that refer to the most important ideas in the course, which will be assessed in both timed and untimed settings. 
 
-For example: In Investigation 20, the fundamental terms are _group_, _abelian group_, _order_ of a group; and _unit_; and the fundamental results are Theorems 20.7 and 20.15. 
+To "instantiate" a definition means to construct or state examples of that definition, and to create a non-example of that definition. 
 
-+  You should be able to state the definitions for each of of the fundamental terms. Additionally: 
-    * _Group_, _Abelian group_, and _unit_ define __objects__. So you should be able to give examples of groups and examples of things that are not groups; examples of Abelian groups and examples of things that are not Abelian groups; and examples of units and examples of things that are not units. 
-    * _Order_ refers to a __computation__, so if you are given a group, you should be able to compute its order. 
-+ You should also be able to state the statements of both fundamental results. (On concept checks and timed modules, you might be asked to give a full statement of the Theorem results, or you might be asked to fill in the blanks on a partial statement.) Additionally: 
-    * You should be able to describe the outline and strategy of the proof for each of these. Actually _proving_ them both would be ideal, but at the very least give an accurate description of _how_ the proofs go.
-    * You should be able to apply both results to a specific instance. For example, use the result of Theorem 20.7 to solve an equation in a group; use Theorem 20.15 to draw conclusions about a set of units.  
+Finally, note that not all of the mathematical results that you need to know are mentioned in the learning objectives -- only the ones that you need to be able to state (or complete) from memory. Please read the _entire_ Investigation to get a complete list of mathematical results. 
 
+# 19: Symmetry
 
-# Objectives for MTH 410 
++ CC.1: State and instantiate the definitions of the following terms: Rigid motion; symmetry
++ (CORE) M.1: Create or complete an operation table for symmetries of a figure. 
 
-## 19: Symmetry
+# 20: An Introduction to Groups
 
-Fundamentals: 
++ CC.2: State and instantiate the definitions of the following terms: Group; Abelian group; finite/infinite order of a group; finite/infinite group; unit
++ CC.3: State the following mathematical results: Theorem 20.7
++ (CORE) M.2: Determine whether a set with a given binary operation is or is not a group. 
++ (CORE) M.3: Given a group (especially the standard examples of groups on page 285), do the following: identify the identity element; identify the inverse of a given element; perform operations in the group; determine whether it is Abelian; determine its order; and describe its group of units. 
 
-+ Definitions: Rigid motion; symmetry
-+ Mathematical results: _None_
+# 21: Integer Powers of Elements of a Group
 
-Content: 
++ CC.4: State and instantiate the definitions of the following terms: Power of an element in a group
++ CC.5: State the following mathematical results: Theorem 21.4; Theorem 21.5
++ (CORE) M.4: Use properties of exponentiation to manipulate powers of group elements.
 
-+ Identify the symmetries of a regular polygon. 
-+ Create or complete an operation table for symmetries of a figure. 
+# 22: Subgroups
 
-## 20: An Introduction to Groups
++ CC.6: State and instantiate the definitions of the following terms: Subgroup; center of a group; cyclic subgroup generated by an element; cyclic group; order of an element in a group
++ CC.7: State the following mathematical results: Theorem 22.4 (Subgroup Test)
++ (CORE) M.5: Determine whether a subset of a group is a subgroup of that group by applying the Subgroup Test.
++ (CORE) M.6: Determine the subgroup of a group that is generated by a single element $a$ (that is, the cyclic subgroup generated by $a$). 
 
-Fundamentals: 
+# 23: Subgroups of Cyclic Groups
 
-+ Definitions: Group; Abelian group; finite/infinite order of a group; finite/infinite group; unit
-+ Mathematical results: Theorem 20.7; Theorem 20.15
++ CC.8: State the following mathematical results: Theorem 23.2; Theorem 23.5; Theorem 23.6; Theorem 23.7; Theorem 23.10
++ M.7: Use Theorem 23.2 to determine information about subgroups of a cyclic group. 
++ (CORE) M.8: Use Theorem 23.5 to determine information about the order of an element in a cyclic group. 
++ (CORE) M.9: Determine subgroups of a given order in a cyclic group using Theorem 23.7. 
 
-Content: 
+# 24: The Dihedral Groups
 
-+ Prove or disprove that a set with a binary operation forms a group. 
-+ Identify the identity element in a group. 
-+ Given an element in a group, identify its inverse. 
++ CC.9: State and instantiate the definitions of the following terms: Dihedral group of order 2n; a subset that generates a group
++ M.10: Determine a presentation for a dihedral group. 
 
 
-## 21: Integer Powers of Elements of a Group
+# 25: The Symmetric Groups
 
-Fundamentals: 
++ CC.10: State and instantiate the definitions of the following terms: ermutation; symmetric group of degree n; disjoint cycles; even and odd permutations; alternating group $A_n$
++ CC.11: State the following mathematical results: Theorem 25.4; Theorem 25.11; Theorem 25.14
++ CC.12: Write a permutation in cycle notation, and decompose a permutation into a product of disjoint cycles. 
++ M.11: Determine whether a permutation is even or odd. 
 
-+ Definitions: Power of an element in a group
-+ Mathematical results: Theorem 21.4; Theorem 21.5
+# 26: Cosets and Lagrange's Theorem
 
-Content: 
++ CC.13: State and instantiate the definitions of the following terms: The relation defined in Definition 26.3; left and right cosets of a subgroup; index of a subgroup
++ CC.14: State the following mathematical results: Theorem 26.7; Theorem 26.11 (Lagrange's Theorem); Corollary 26.13; Corollary 26.14
++ (CORE) M.12: Given a group G, a subgroup H, and an group element a, determine the left coset aH of H in G and the right coset Ha of H in G. 
++ (CORE) M.13: Use Lagrange's Theorem to determine information about the order of a subgroup of a group. 
++ (CORE) M.14: Use the Corollaries to Lagrange's Theorem to determine information about subgroups of a group and about powers of elements of a group. 
 
-+ Use the properties of exponentiation proven in the investigation to manipulate powers of group elements. 
+# 27: Normal Subgroups and Quotient Groups
 
-## 22: Subgroups
++ CC.15: State and instantiate the definitions of the following terms: The set G/H; normal subgroup; quotient group G/N; simple group
++ CC.16: State the following mathematical results: Theorem 27.5; Theorem 27.10; Theorem 27.11 (Cauchy's Theorem for Finite Abelian Groups)
++ (CORE) M.15: Determine the set G/H of distinct left cosets of H in G. 
++ (CORE) M.16: Determine whether a subgroup of a group is normal. 
++ (CORE) M.17: Determine the quotient group G/N of G by a normal subgroup N.
 
-Fundamentals: 
+# 28: Products of Groups
 
-+ Definitions: Subgroup; center of a group; cyclic subgroup generated by an element; cyclic group; order of an element in a group
-+ Mathematical results: Theorem 22.4 (Subgroup Test); Theorem 22.10
++ CC.17: State and instantiate the definitions of the following terms: External direct product of two groups; internal direct product of two groups
++ CC.18: State the following mathematical results: Theorem 28.5; Theorem 28.6; Theorem 28.9; Theorem 28.15
++ (CORE) M.18: Determine the external direct product of two groups. 
++ M.19: Determine the order of an element in a direct product. 
 
-Content: 
+# 29: Group Isomorphisms and Invariants
 
-+ Determine whether a subset of a group is a subgroup of that group by determining whether the group axioms hold. 
-+ Determine whether a subset of a group is a subgroup of that group by using the Subgroup Test. 
-+ Determine the subgroup of a group that is generated by a single element $a$ (that is, the cyclic subgroup generated by $a$). 
++ CC.19; State and instantiate the definitions of the following terms: Isomorphism of groups; well-defined mapping
++ CC.20: State the following mathematical results: Theorem at the end of Activity 29.9; Theorem 29.14; Theorem 29.16; Theorem 29.18; Theorem 29.19; Theorem 29.24; Corollary 29.25 
++ (CORE) M.20: Determine whether a function between two groups is an isomorphism. 
++ (CORE) M.21: Show two groups are isomorphic by constructing an isomorphism between them. 
++ M.22: Determine whether a mapping is well-defined. 
++ (CORE) M.23: Show two groups are non-isomorphic by identifying differences on one or more invariants. 
 
-## 23: Subgroups of Cyclic Groups
+# 30: Homomorphisms and Isomorphism Theorems
 
-Fundamentals: 
++ CC.21: State and instantiate the definitions of the following terms: Homomorphism of groups; epimorphism; monomorphism; homomorphic image; kernel of a homomorphism; image of a homomorphism
++ CC.22: State the following mathematical results: heorem 30.4; Theorem 30.8; Theorem 30.13 (The First Isomorphism Theorem); Theorem 30.16 (The Second Isomorphism Theorem); Theorem 30.18 (The Third Isomorphism Theorem); Theorem 30.19 (The Fourth Isomorphism Theorem); Theorem 30.22
++ (CORE) M.24: Determine whether a function between two groups is a homomorphism (epimorphism, monomorphism). 
++ (CORE) M.25: Determine the kernel and image of a homomorphism. 
 
-+ Definitions: _None_
-+ Mathematical results: Theorem 23.2; Theorem 23.5; Theorem 23.6; Theorem 23.7; Theorem 23.10
+# 31: The Fundamental Theorem of Finite Abelian Groups
 
-Content: 
++ CC.23: State and instantiate the definitions of the following terms: p-group; p-primary component of a group; 
++ CC.24: State the following mathematical results: Theorem 31.3; Corollary 31.6; Theorem 31.13 (Fundamental Theorem of Finite Abelian Groups)
 
-+ Use Theorem 23.2 to determine information about subgroups of a cyclic group. 
-+ Use Theorem 23.5 to determine information about the order of an element in a cyclic group. 
-+ Determine subgroups of a given order in a cyclic group using Theorem 23.7. 
+# 32: The First Sylow Theorem
 
-## 24: The Dihedral Groups
++ CC.25: State and instantiate the definitions of the following terms: The "conjugate" relation; conjugacy class; centralizer; Sylow p-subgroup
++ CC.26: State the following mathematical results: Theorem 32.12 (The Class Equation); Theorem 32.14; Corollary 32.16; Theorem 32.17 (Cauchy's Theorem); Theorem 32.20 (First Sylow Theorem)
++ M.26: Determine if two elements in a group are conjugate. 
++ M.27: Determine the conjugacy class of a group element. 
++ M.28: Determine the centralizer of a group. 
 
-Fundamentals: 
+# 33: The Second and Third Sylow Theorem
 
-+ Definitions: Dihedral group of order 2n; a subset that generates a group
-+ Mathematical results: _None_
++ CC.27: State and instantiate the definitions of the following terms: Normalizer
++ CC.28: State the following mathematical results: Lemma 33.3; Lemma 33.9; Lemma 33.10; Theorem 33.12 (Second Sylow Theorem); Theorem 33.13 (Third Sylow Theorem)
++ M.29: Determine the normalizer of a subgroup in a group.
 
-Content: 
+# 16: Rings: Ideals and Homomorphisms
 
-+ Create operation tables for a dihedral group. 
-+ Determine a presentation for a dihedral group. 
+Note: This investigation will occupy several class meetings. 
 
-## 25: The Symmetric Groups
-
-Fundamentals: 
-
-+ Definitions: Permutation; symmetric group of degree n; disjoint cycles; even and odd permutations; alternating group $A_n$
-+ Mathematical results: Theorem 25.4; Theorem 25.11; Theorem 25.14
-
-Content: 
-
-+ Write a permutation in cycle notation. 
-+ Decompose a permutation into a product of disjoint cycles. 
-+ Determine whether a permutation is even or odd. 
-
-## 26: Cosets and Lagrange's Theorem
-
-Fundamentals: 
-
-+ Definitions: The relation defined in Definition 26.3; left and right cosets of a subgroup; index of a subgroup
-+ Mathematical results: Theorem 26.7; Theorem 26.11 (Lagrange's Theorem); Corollary 26.13; Corollary 26.14
-
-Content: 
-
-+ Given a group G, a subgroup H, and an group element a, determine the left coset aH of H in G and the right coset Ha of H in G. 
-+ Use Lagrange's Theorem to determine information about the order of a subgroup of a group. 
-+ Use the Corollaries to Lagrange's Theorem to determine information about subgroups of a group and about powers of elements of a group. 
-+ Find the index of a subgroup in a group. 
-
-## 27: Normal Subgroups and Quotient Groups
-
-Fundamentals: 
-
-+ Definitions: The set G/H; normal subgroup; quotient group G/N; simple group
-+ Mathematical results: Theorem 27.5; Theorem 27.10; Theorem 27.11 (Cauchy's Theorem for Finite Abelian Groups)
-
-Content: 
-
-+ Determine the set $G/H$ of distinct left cosets of H in G. 
-+ Determine whether a subgroup of a group is normal. 
-+ Determine the quotient group $G/N$ of G by a normal subgroup N. 
-
-## 28: Products of Groups
-
-Fundamentals: 
-
-+ Definitions: External direct product of two groups; internal direct product of two groups
-+ Mathematical results: Theorem 28.5; Theorem 28.6; Theorem 28.9; Theorem 28.15
-
-Content: 
-
-+ Determine the external direct product of two groups. 
-+ Determine the order of an element in a direct product. 
-+ Determine the internal direct product of two groups. 
-
-## 29: Group Isomorphisms and Invariants
-
-Fundamentals: 
-
-+ Definitions: Isomorphism of groups; well-defined mapping
-+ Mathematical results: Theorem at the end of Activity 29.9; Theorem 29.14; Theorem 29.16; Theorem 29.18; Theorem 29.19; Theorem 29.24; Corollary 29.25 
-
-Content: 
-
-+ Determine whether a function between two groups is an isomorphism. 
-+ Show two groups are isomorphic by constructing an isomorphism between them. 
-+ Determine whether a mapping is well-defined. 
-+ State several examples of properties that are invariant under isomorphism. 
-
-## 30: Homomorphisms and Isomorphism Theorems
-
-Fundamentals: 
-
-+ Definitions: Homomorphism of groups; epimorphism; monomorphism; homomorphic image; kernel of a homomorphism; image of a homomorphism
-+ Mathematical results: Theorem 30.4; Theorem 30.8; Theorem 30.13 (The First Isomorphism Theorem); Theorem 30.16 (The Second Isomorphism Theorem); Theorem 30.18 (The Third Isomorphism Theorem); Theorem 30.19 (The Fourth Isomorphism Theorem); Theorem 30.22
-
-Content: 
-
-+ Determine whether a function between two groups is a homomorphism (epimorphism, monomorphism). 
-+ Determine the kernel of a homomorphism. 
-+ Determine the image of a homomorphism. 
-
-## 31: The Fundamental Theorem of Finite Abelian Groups
-
-
-Fundamentals: 
-
-+ Definitions: p-group; p-primary component of a group; 
-+ Mathematical results: Theorem 31.3; Corollary 31.6; Theorem 31.13 (Fundamental Theorem of Finite Abelian Groups)
-
-Content: 
-
-+ TBA. 
-
-## 32: The First Sylow Theorem
-
-Fundamentals: 
-
-+ Definitions: The "conjugate" relation; conjugacy class; centralizer; Sylow p-subgroup
-+ Mathematical results: Theorem 32.12 (The Class Equation); Theorem 32.14; Corollary 32.16; Theorem 32.17 (Cauchy's Theorem); Theorem 32.20 (First Sylow Theorem)
-
-Content: 
-
-+ Determine if two elements in a group are conjugate. 
-+ Determine the conjugacy class of a group element. 
-+ Determine the centralizer of a group. 
-
-## 33: The Second and Third Sylow Theorem
-
-Fundamentals: 
-
-+ Definitions: Normalizer; 
-+ Mathematical results: Lemma 33.3; Lemma 33.9; Lemma 33.10; Theorem 33.12 (Second Sylow Theorem); Theorem 33.13 (Third Sylow Theorem)
-
-Content: 
-
-+ Determine the normalizer of a subgroup in a group. 
-
-## 16: Rings: Ideals and Homomorphisms
-
-Fundamentals: 
-
-+ Definitions: Ideal; principal ideal; principal ideal domain; Euclidean domain; associates; congruence modulo an ideal; maximal ideal; prime ideal; homomorphism of rings; monomorphism, epimorphism, and isomorphism of rings; kernel of a ring homomorphism; image of a ring homomorphism
-+ Mathematical results: Theorem 16.4 (Ideal Test); Theorem 16.8; Theorem 16.10; Lemma 16.11; Theorem 16.13; Lemma 16.16; Theorem 16.24; Theorem 16.27; Euclid's Lemma; Theorem 16.34; Theorem 16.39; Theorem 16.42; Theorem 16.43; Theorem 16.46; Theorem 16.48 (First Isomorphism Theorem for Rings) 
-
-Content: 
-
-+ Determine whether a subset of a ring is an ideal of that ring. 
-+ Determine whether an ideal of a ring is a principal ideal. 
-+ Determine if a ring is a principal ideal domain. 
-+ Determine if a ring is a Euclidean domain. 
-+ Given a ring R and an ideal I, determine whether two ring elements are congruent modulo I. 
-+ Determine if an ideal in a ring is maximal or prime. 
-+ Determine if a function between two rings is a ring homomorphism. 
-+ Determine the kernel and image of a ring homomorphism. 
++ CC.29: State and instantiate the definitions of the following terms: Ideal; principal ideal; principal ideal domain; Euclidean domain; associates; congruence modulo an ideal; maximal ideal; prime ideal; homomorphism of rings; monomorphism, epimorphism, and isomorphism of rings; kernel of a ring homomorphism; image of a ring homomorphism
++ CC.30: State the following mathematical results: Theorem 16.4 (Ideal Test); Theorem 16.8; Theorem 16.10; Lemma 16.11; Theorem 16.13; Lemma 16.16; Theorem 16.24; Theorem 16.27; Euclid's Lemma; Theorem 16.34; Theorem 16.39; Theorem 16.42; Theorem 16.43; Theorem 16.46; Theorem 16.48 (First Isomorphism Theorem for Rings)
++ (CORE) M.30: Determine whether a subset of a ring is an ideal of that ring. 
++ (CORE) M.31: Determine whether an ideal of a ring is a principal ideal; and given a principal ideal, determine its elements and a generator.
++ M.32: Determine if a ring is a principal ideal domain. 
++ M.33: Determine if a ring is a Euclidean domain. 
++ M.34: Given a ring R and an ideal I, determine whether two ring elements are congruent modulo I. 
++ M.35: Determine if an ideal in a ring is maximal or prime. 
++ (CORE) M.36: Determine if a function between two rings is a ring homomorphism. 
++ (CORE) M.37: Determine the kernel and image of a ring homomorphism. 
