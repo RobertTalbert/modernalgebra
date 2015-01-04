@@ -1,0 +1,64 @@
+Specifications for Student Work in MTH 410
+==========================================
+
+## Specifications for mathematical proofs 
+
+A mathematical proof that represents professionally acceptable work follows all of the following specifications with only minimal deviations. These are taken from __Appendix A: Guidelines for Writing Mathematical Proofs__ from Ted Sundstrom's _Mathematical Reasoning: Writing and Proof_ provided on the Blackboard site. This is the textbook used in MTH 210, and these guidelines are the standard specifications for proof writing used in all proof-based courses at GVSU. 
+
+1. The proof is written at a level that is appropriate for an audience for MTH 410. We will assume that this "standard audience" is __a peer in MTH 410 who is knowledgeable of the content of the course but who may not be familiar with what you are writing about.__
+2. The proof is preceded by a carefully worded statement of the theorem or result to be proven. 
+3. The proof begins with a statement of your assumptions. 
+4. The proof uses the pronoun "we" instead of "I". 
+5. The proof uses italicized fonts for variables. 
+6. The proof does not use * for multiplication or ^ for exponents, but rather juxtaposition or a dot (in LaTeX: \cdot) for multiplication and superscripts for exponents. 
+7. The proof is written in a narrative format that uses complete sentences and proper paragraph structure. In particular, the proof avoids all of the following mechanical errors: Misspelled words; subject-verb disagreements in sentences; misused punctuation; and incomplete sentences. 
+8. The proof keeps the reader informed at all times. In particular, the proof explicitly states the method being used, and before significant steps are made the proof informs the reader what is about to take place. 
+9. The proof uses displayed math mode, rather than inline mathematical notation, for all important equations and mathematical expressions. 
+10. If it is necessary to number equations in a proof, the equations that are numbered are centered and displayed and given a number using a consistent numbering system written in parentheses on the same line as the equation at the right-hand margin. 
+11. The proof avoids the use of symbols at the beginning of sentences. 
+12. The proof strikes a good balance between the use of English and the use of mathematical notation, and mathematical notation is not misused. In particular, the use of the equals sign (=) for any purpose other than to claim that two mathematical expressions are equal renders a proof invalid. 
+13. The proof indicates when the proof has been completed. 
+14. The proof is easy to read and as simple as possible in its structure. 
+
+Additionally: 
+
++ All proofs in MTH 410 are to be typewritten using LaTeX, Microsoft Equation Editor, or some other computer software that renders mathematical notation. Handwritten work and plain text documents are not acceptable. 
++ All proofs in MTH 410 must be free of logical and mathematical error. Slight errors that do not affect the overall flow of an argument can be overlooked, but significant errors cannot be. In particular, assuming the statement that one is trying to prove renders a proof automatically invalid and unacceptable. 
++ All proofs in MTH 410 must be free of _semantically incorrect statements_. These are statements that may be well-formed sentences or expressions but which make no sense. For example, the statement "The ring R is less than the ring S", while _syntactically_ correct, is not semantically correct because the term "less than" doesn't make sense when applied to rings. Here are a few more semantically incorrect sentences:  
+	* The number 5 is commutative. 
+	* The number 17 is relatively prime. 
+	* We will now square both sides of the equation x + 5. 
++ All proofs in MTH 410 must actually prove the statement in question. In particular, giving a list of examples that verify a statement that is universally quantified is automatically an invalid proof. Also, making unwarranted assumptions in a proof will render the proof invalid. 
+
+## Specifications for submission of Learning Modules 
+
+When submitting work for a Learning Module, it must abide by the following technical formatting specifications: 
+
++ The completed submission must be saved as a PDF file type and submitted using the course's special email address [mth410gvsu@gmail.com](mailto:mth410gvsu@gmail.com). 
++ The file name of the submission must be _exactly_ as specified on the Learning Module. 
++ The top portion of the PDF that is submitted must include the student's name and section number at the beginning of the work. 
++ The solutions in the submission must be done in the order they were presented in the Learning Module. 
++ All mathematical graphical items such as directed graphs must be computer-generated and not hand drawn. 
+
+-----
+
+## Specifications for Concept Checks
+
+Most Concept Check items will be objective in nature (true/false, multiple choice, etc.) where only the answer is graded. The sole specification for this work is that the answer must be correct and clearly indicated on the Concept Check form. 
+
+## Specifications for CORE-M objective problems
+
+CORE-M problems are problems done in a timed setting, each of which addresses exactly one CORE-M learning objective. They usually involve performing some kind of computation, building an example, or something similarly hands-on. These are not typically proofs. Work on these CORE-M problems must follow the following specifications: 
+
++ The solution to the problem must be correct, and the steps in the solution must also be correct. (So, getting a right answer by sheer coincidence when the solution is wrong is not acceptable.)
++ The solution must be clear, legibly written, and easy to follow from beginning to end. 
++ The solution should be framed as an effort to persuade a member of the standard MTH 410 audience (above) that your solution and answers are correct. This means among other things that 
+    * Your writing must be clear, well organized, and contain no significant gaps in the reasoning in a solution. In particular, answers without sufficient work are not acceptable. 
+    * Your writing must keep the reader informed at all times. For example, if you are about to perform a computation, explain what you are going to do first in a short sentence or half-sentence. Also there must be a clear indicator of when the solution is finished. 
++ Additionally, mathematical writing should abide by the following format specifications: 
+    * If a problem has multiple parts, the solution must be written up in multiple parts. 
+    * Use the equals sign "=" only for connecting two objects that are actually equal, not as an indicator of a step in a solution. 
+    * If you introduce a variable in a solution, you must first clearly state what that variable represents and then stick with that variable name throughout the solution. 
++ Any writing that you do must abide by basic rules of English usage, namely: no misspelled words, no incomplete sentences, subjects and verbs agree, and punctuation is used correctly. 
++ All mathematical notation is correctly written and correctly used. 
++ All sentences and mathematical expressions are semantically correct (see above). 
