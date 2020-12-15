@@ -16,6 +16,8 @@ Standard practice for definitions: State verbatim; give examples; give non-examp
 
 ## Review Targets
 
+Ted's book: [https://scholarworks.gvsu.edu/books/24/](https://scholarworks.gvsu.edu/books/24/) 
+
 - Given a conditional statement, identify the hypothesis and conclusion.
 - Given a conditional statement to prove, set up the framework (identify what to assume and what to prove) if doing a direct proof, proof by contrapositive, and proof by contradiction. 
 - Do a critical analysis of a written proof of a conditional statement. 
