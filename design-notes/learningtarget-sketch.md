@@ -10,8 +10,22 @@ Standard practice for definitions: State verbatim; give examples; give non-examp
 
 ## Big skills 
 
-- Given a definition: State it, give examples, and give non-examples. 
-- "State and apply" theorems
+- Clear and correct mathematical writing 
+- Comprehending definitions: 
+  - Stating verbatim
+  - Construct examples
+  - Construct non-examples
+  - Use it to rephrase a statement or draw a conclusions
+- Theorems:    
+  - State verbatim, identify assumptions and conclusions
+  - Use the result to draw conclusions give data, or determine that the theorem doesn't apply
+- Proofs:
+  - Critical analysis (see Chad Wiley's proof writer workshop using Campuswire)
+  - Writing one's own
+- Mathematical reasoning
+  - Abstraction
+  - Experimentation and conjecture 
+  - Is this just computational thinking? 
 
 
 ## Review Targets
@@ -148,3 +162,7 @@ Ted's book: [https://scholarworks.gvsu.edu/books/24/](https://scholarworks.gvsu.
 - Why do we care about rings? 
 - Why should teachers care about this stuff?
 - Practical applications? 
+
+
+---
+
