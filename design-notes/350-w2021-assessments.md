@@ -97,6 +97,8 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 
 These are assigned at intervals, maybe a week in advance of when they're needed. Except for the first week stuff and maybe do those in class. 
 
+Also try to have all these available at the beginning, students can work on them at their own pace but with deadlines. One revision allowed for each and more with a token. 
+
 
 ## Portfolio 
 
@@ -137,5 +139,5 @@ F awarded if ANY area fails to reach level 1.
 
 ![Grade checklist concept](https://i.ibb.co/d0m2LBH/MTH-350-grade-checklist-concept.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4OTg3NzI3LC0zNzc2OTU4OTNdfQ==
+eyJoaXN0b3J5IjpbLTMyNDk3ODcxOSwtMzc3Njk1ODkzXX0=
 -->
