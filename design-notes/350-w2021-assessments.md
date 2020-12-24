@@ -86,7 +86,13 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 
 - Onboarding -- syllabus, calendar, grading system quiz
 - Setup on course tools (math typesetting, uploading PDF, Campuswire, etc.) 
-- 
+- Proof basics: What is/is not a proof and basics of proof writing (*possibly an early workshop*) 
+- Proving conditional statements 
+- Proof by contradiction
+- Proof by induction
+- Set theory and logic 
+- Functions
+- Matrice
 
 
 ## Portfolio 
@@ -128,5 +134,5 @@ F awarded if ANY area fails to reach level 1.
 
 ![Grade checklist concept](https://i.ibb.co/d0m2LBH/MTH-350-grade-checklist-concept.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA2MzAwMjAsLTM3NzY5NTg5M119
+eyJoaXN0b3J5IjpbLTUxMjYwNTg3LC0zNzc2OTU4OTNdfQ==
 -->
