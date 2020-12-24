@@ -35,7 +35,9 @@ BIG SKILLS:
 
 ## How to assess progress/mastery on these? 
 
-- Clear, correct mathematical expression: Problem sets, subset of which can be submitted for a portfolio and s
+- Clear, correct mathematical expression: Problem sets, subset of which can be submitted for a portfolio and subset of those which are presented on FlipGrid; also basic problems that are just homework 
+- "Unpacking": Also on Problem Sets but in a designated area (so there's unpacking activities, maybe basic problems, and "Starred" problems that are for portfolio and presentation) 
+- En
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMzE1MjIwXX0=
+eyJoaXN0b3J5IjpbLTM4NTkxMjY4OV19
 -->
