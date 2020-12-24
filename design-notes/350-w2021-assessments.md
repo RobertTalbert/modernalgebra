@@ -43,10 +43,17 @@ BIG SKILLS:
 
 Summarizing: 
 - Basic problems
-- Starred problems -- or this could be a portfolio of started 
+- Starred problems -- or this could be a portfolio of starred problems to include x number of written problems and y number of video presentations 
 - Workshop contributions 
 - Project
 - Final exam 
+
+## Or back to the bundles idea 
+
+Bundles: 
+- Review 
+- Foundational skills (unpacking -- "basic" p) 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjMxMzY5NV19
+eyJoaXN0b3J5IjpbNjAxMTkzMzAyXX0=
 -->
