@@ -70,7 +70,7 @@ Then the final exam which just contributes +/-
 
 ## Grading the bundles 
 
-Each bundle is graded on four levels: 
+Each bundle is graded on four levels: 0/1/2/3. Levels 2, 3 are considered "passing". Level
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTMxNDgwMl19
+eyJoaXN0b3J5IjpbMTk2MjEwMTMxMF19
 -->
