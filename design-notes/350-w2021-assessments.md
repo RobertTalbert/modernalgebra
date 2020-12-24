@@ -81,10 +81,18 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 | 3 | Earn "Pass" on all review assignments <br> AND earn M or better on 10 Basic Problem sets, including at least 5 "E" 
 | 2 | Earn "Pass" on all review assignments <br> AND earn M or better on 8 Basic Problem sets 
 | 1 | Earn M or better on 5 Basic problem sets 
-| 0 | 
+
+## Portfolio 
+
+| Level | Requirements | 
+| ----- | ------------ | 
+| 3 | Earn M or better on 8 Starred problems, including at least 3 "E" <br> AND Earn M or better on at least 3 presentation videos   
+| 2 | Earn M or better on 8 Starred problems <br> AND Earn M or better on at least 1 presentation video  
+| 1 | Earn M or better on 4 Basic problem sets 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0Njg4NDU2XX0=
+eyJoaXN0b3J5IjpbLTEzODg1NDM2Nl19
 -->
