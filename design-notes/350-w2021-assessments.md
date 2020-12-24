@@ -96,12 +96,21 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 | ----- | ------------ | 
 | 3 | Earn Pass on 10 Workshop contributions AND <br> Earn Pass on 20 Daily Preps AND <br> Earn Pass on 10 Weekly Reflections   
 | 2 | Earn Pass on 8 Workshop contributions AND <br> Earn Pass on 16 Daily Preps AND <br> Earn Pass on 8 Weekly Reflections 
-| 1 | Earn Pass on 6 Workshop contributions AND <br> Earn Pass on 20 Daily Preps AND <br> Earn Pass on 10 Weekly Reflections
+| 1 | Earn Pass on 6 Workshop contributions AND <br> Earn Pass on 14 Daily Preps AND <br> Earn Pass on 6 Weekly Reflections
 
 
+## Project 
 
+Grading rubric will be given later but it's also 0//1/2/3. 
+
+# Course grade tabulations 
+
+| Grade | Foundations | Portfolio | Engagement | Project | 
+| ----- | ----- | ----- | ----- | -----| A | Level 3 | Level 3 | Level 3 | Level 3 | 
+| B | 
+| C
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDkxMzA0MV19
+eyJoaXN0b3J5IjpbMjA3NjQzOTQ3N119
 -->
