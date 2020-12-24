@@ -9,6 +9,8 @@
 BIG SKILLS: 
 
 - Clear, correct mathematical expression in both written and oral form
+	- Given a proposition that is known to be true, write a proof 
+	- Given a proposition that is known to be true, explain the proof in a presentation 
 - Ability to "unpack" mathematical definitions 
 	- State verbatim with all detais included
 	- Construct simple and complex examples
@@ -22,7 +24,10 @@ BIG SKILLS:
 	- Give a line-by-line explanation of proof 
 	- (Not always applicable, but...) Convert the proof of a theorem into an algorithm and use it to compute something
 - Engage in productive mathematical reasoning 
-	- 
+	- Decompose examples 
+	- Recognize patterns
+	- Phrase patterns into a clear and correct mathematical claim
+	- Construct a proof or an algorithm for the claim 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0NzMyNTY2XX0=
+eyJoaXN0b3J5IjpbLTE3NzI4MTA4NjJdfQ==
 -->
