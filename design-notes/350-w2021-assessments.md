@@ -112,7 +112,12 @@ Grading rubric will be given later but it's also 0//1/2/3.
 | C | 
 | D | 
 
-A: Level 3 in Foundations and at least 2 other arteas, 
+A: Level 3 in Foundations and at least 2 other areas, no lower than Level 2 in the other. 
+B: Level 3 in Foundations and at least 1 other area, no  lower than Level 2 in the others. 
+C: Level 2 or higher in all areas. 
+D: Level 2 or higher in Foundations, Level 1 or higher in the others. 
+
+F awarded if ANY area fails to reach level 1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMzk4OTY3XX0=
+eyJoaXN0b3J5IjpbLTM3NzY5NTg5M119
 -->
