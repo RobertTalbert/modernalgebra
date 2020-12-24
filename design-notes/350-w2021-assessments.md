@@ -70,7 +70,14 @@ Then the final exam which just contributes +/-
 
 ## Grading the bundles 
 
-Each bundle is graded on four levels: 0/1/2/3. Levels 2, 3 are considered "passing". Level
+Each bundle is graded on four levels: 0/1/2/3. Levels 2, 3 are considered "passing". Level 1 is considered "not passing but better than nothing". Level 0 is "not acceptable". 
+
+DON'T use EMRN because that's the same rubric used for individual assessments! Maybe just use level numbers. 
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjEwMTMxMF19
+eyJoaXN0b3J5IjpbLTIxMzAxOTYzMTVdfQ==
 -->
