@@ -106,11 +106,13 @@ Grading rubric will be given later but it's also 0//1/2/3.
 # Course grade tabulations 
 
 | Grade | Foundations | Portfolio | Engagement | Project | 
-| ----- | ----- | ----- | ----- | -----| A | Level 3 | Level 3 | Level 3 | Level 3 | 
+| ----- | ----- | ----- | ----- | -----| 
+| A | Level 3 | Level 3 | Level 3 | Level 3 | 
 | B | 
-| C
+| C | 
+| D | 
 
-
+A: Level 3 in Foundations and at least 2 other arteas, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjQzOTQ3N119
+eyJoaXN0b3J5IjpbODQzMzk4OTY3XX0=
 -->
