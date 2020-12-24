@@ -28,6 +28,9 @@ BIG SKILLS:
 	- Recognize patterns
 	- Phrase patterns into a clear and correct mathematical claim
 	- Construct a proof or an algorithm for the claim 
+- "Big Picture" skills
+	- Articulate the connections between topics 
+	- Connect the course content to something meaningful to you (application, teaching, other areas of math) (*This sounds like a project*) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI4MTA4NjJdfQ==
+eyJoaXN0b3J5IjpbMTk5NDQ5NzA2XX0=
 -->
