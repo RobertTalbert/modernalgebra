@@ -62,13 +62,15 @@ Workshop -- also once per module (12)
 
 Daily Prep -- once per meeting (24 ish) 
 
-Weekly reflections -- every Friday we have signi(12) 
+Weekly reflections -- every Friday we have significant meetings (12) 
 
 
 Then the final exam which just contributes +/- 
 
 
+## Grading the bundles 
 
+Each bundle is graded on four levels: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDEyMzkwMV19
+eyJoaXN0b3J5IjpbLTcwMTMxNDgwMl19
 -->
