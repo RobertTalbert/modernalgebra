@@ -35,7 +35,7 @@ BIG SKILLS:
 
 ## How to assess progress/mastery on these? 
 
-
+- Clear, correct mathematical expression: Problem sets, subset of which can be submitted for a portfolio and s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NzI4MTMyXX0=
+eyJoaXN0b3J5IjpbNjczMzE1MjIwXX0=
 -->
