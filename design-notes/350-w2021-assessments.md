@@ -74,10 +74,17 @@ Each bundle is graded on four levels: 0/1/2/3. Levels 2, 3 are considered "passi
 
 DON'T use EMRN because that's the same rubric used for individual assessments! Maybe just use level numbers. 
 
+## Foundational Skills 
 
+| Level | Requirements | 
+| ----- | ------------ | 
+| 3 | Earn "Pass" on all review assignments <br> AND earn M or better on at 
+| 2 | 
+| 1 | 
+| 0 | 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAxOTYzMTVdfQ==
+eyJoaXN0b3J5IjpbNDI4NzQ1NjkwXX0=
 -->
