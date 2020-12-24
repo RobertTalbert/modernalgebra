@@ -39,7 +39,14 @@ BIG SKILLS:
 - "Unpacking": Also on Problem Sets but in a designated area (so there's unpacking activities, maybe basic problems, and "Starred" problems that are for portfolio and presentation) 
 - Engaging in productive mathematical reasoning:  Workshop problems done asynchronously on Campuswire -- these would involve critical analysis of proofs, working with math phenomena with examples and so on 
 - Project at the end to form connections -- involves video presentations and a product (brochure explainer, etc. ) 
-- "Final exam" to cover 
+- "Final exam" to include a portfolio of students' best work, how they self regulated and learned from feedback, how they connect up topics 
+
+Summarizing: 
+- Basic problems
+- Starred problems -- or this could be a portfolio of started 
+- Workshop contributions 
+- Project
+- Final exam 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NjQ2MzMxXX0=
+eyJoaXN0b3J5IjpbLTIyNjMxMzY5NV19
 -->
