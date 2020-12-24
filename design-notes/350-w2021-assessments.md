@@ -17,7 +17,12 @@ BIG SKILLS:
 - Ability to "unpack" mathematical theorems and proofs 
 	- State verbatim
 	- Rephrase using logic (esp negations) 
-	- Use 
+	- Use the definition to draw conclusions from data (or determine that the theorem doesn't apply)
+	- Conduct a critical analysis of a proposed proof
+	- Give a line-by-line explanation of proof 
+	- (Not always applicable, but...) Convert the proof of a theorem into an algorithm and use it to compute something
+- Engage in productive mathematical reasoning 
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTE3MTgzM119
+eyJoaXN0b3J5IjpbOTg0NzMyNTY2XX0=
 -->
