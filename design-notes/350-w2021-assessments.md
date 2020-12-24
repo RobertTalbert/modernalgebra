@@ -118,6 +118,8 @@ C: Level 2 or higher in all areas.
 D: Level 2 or higher in Foundations, Level 1 or higher in the others. 
 
 F awarded if ANY area fails to reach level 1. 
+
+![Grade checklist concept](https://i.ibb.co/d0m2LBH/MTH-350-grade-checklist-concept.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzY5NTg5M119
+eyJoaXN0b3J5IjpbLTYxNzgzNTY1NywtMzc3Njk1ODkzXX0=
 -->
