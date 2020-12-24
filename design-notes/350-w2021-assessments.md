@@ -32,6 +32,10 @@ BIG SKILLS:
 	- Articulate the connections between topics (*final exam or assignment*) 
 	- Connect the course content to something meaningful to you (application, teaching, other areas of math) (*This sounds like a project*) 
 	- Teaching yourself new things/self regulation/learning from feedback 
+
+## How to assess progress/mastery on these? 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDM3NzMyNV19
+eyJoaXN0b3J5IjpbNTc1NzI4MTMyXX0=
 -->
