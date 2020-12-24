@@ -51,9 +51,9 @@ Summarizing:
 ## Or back to the bundles idea 
 
 Bundles: 
-- Review 
-- Foundational skills (unpacking -- "basic" p) 
+- Foundational skills (unpacking -- "basic" problems from problem sets + review work) 
+- Portfolio (starred problems both written and oral) 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMTkzMzAyXX0=
+eyJoaXN0b3J5IjpbOTc3ODQ4MTk5XX0=
 -->
