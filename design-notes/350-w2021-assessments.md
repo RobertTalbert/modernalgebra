@@ -88,11 +88,20 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 | ----- | ------------ | 
 | 3 | Earn M or better on 8 Starred problems, including at least 3 "E" <br> AND Earn M or better on at least 3 presentation videos   
 | 2 | Earn M or better on 8 Starred problems <br> AND Earn M or better on at least 1 presentation video  
-| 1 | Earn M or better on 4 Basic problem sets 
+| 1 | Earn M or better on 4 Starred  problems 
+
+## Engagement and community  
+
+| Level | Requirements | 
+| ----- | ------------ | 
+| 3 | Earn Pass on 10 Workshop contributions AND <br> Earn Pass on 20 Daily Preps AND <br> Earn Pass on 10 Weekly Reflections   
+| 2 | Earn Pass on 8 Workshop contributions AND <br> Earn Pass on 16 Daily Preps AND <br> Earn Pass on 8 Weekly Reflections 
+| 1 | Earn Pass on 6 Workshop contributions AND <br> Earn Pass on 20 Daily Preps AND <br> Earn Pass on 10 Weekly Reflections
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg1NDM2Nl19
+eyJoaXN0b3J5IjpbMTYyMDkxMzA0MV19
 -->
