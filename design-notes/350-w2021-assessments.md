@@ -53,7 +53,13 @@ Summarizing:
 Bundles: 
 - Foundational skills (unpacking -- "basic" problems from problem sets + review work) 
 - Portfolio (starred problems both written and oral) 
-- 
+- Engagement and community (workshop contributions, daily prep, weekly reflections) 
+- Project 
+
+
+
+
+Then the final exam which just contributes +/- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3ODQ4MTk5XX0=
+eyJoaXN0b3J5IjpbLTQ0NzQxMTE3XX0=
 -->
