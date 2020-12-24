@@ -92,7 +92,7 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 - Proof by induction
 - Set theory and logic 
 - Functions
-- Matrices 
+- Matrices and complex numbers
 
 
 ## Portfolio 
@@ -134,5 +134,5 @@ F awarded if ANY area fails to reach level 1.
 
 ![Grade checklist concept](https://i.ibb.co/d0m2LBH/MTH-350-grade-checklist-concept.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzU4NjIwMCwtMzc3Njk1ODkzXX0=
+eyJoaXN0b3J5IjpbNjI4NDg1MDc3LC0zNzc2OTU4OTNdfQ==
 -->
