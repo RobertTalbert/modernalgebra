@@ -78,13 +78,13 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 
 | Level | Requirements | 
 | ----- | ------------ | 
-| 3 | Earn "Pass" on all review assignments <br> AND earn M or better on at 
-| 2 | 
-| 1 | 
+| 3 | Earn "Pass" on all review assignments <br> AND earn M or better on 10 Basic Problem sets, including at least 5 "E" 
+| 2 | Earn "Pass" on all review assignments <br> AND earn M or better on 8 Basic Problem sets 
+| 1 | Earn M or better on 5 Basic problem sets 
 | 0 | 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4NzQ1NjkwXX0=
+eyJoaXN0b3J5IjpbOTk0Njg4NDU2XX0=
 -->
