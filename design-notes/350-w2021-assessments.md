@@ -31,6 +31,7 @@ BIG SKILLS:
 - **"Big Picture" skills**
 	- Articulate the connections between topics (*final exam or assignment*) 
 	- Connect the course content to something meaningful to you (application, teaching, other areas of math) (*This sounds like a project*) 
+	- Teaching yourself new things/self regulation/learning from feedback 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1Nzk3MDM0XX0=
+eyJoaXN0b3J5IjpbLTQyMDM3NzMyNV19
 -->
