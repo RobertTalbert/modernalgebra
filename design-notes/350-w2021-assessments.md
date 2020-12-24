@@ -86,6 +86,7 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 
 - Onboarding -- syllabus, calendar, grading system quiz
 - Setup on course tools (math typesetting, uploading PDF, Campuswire, etc.) 
+- Mathematical sense making: Correctness and error in computation, logic, semantics
 - Proof basics: What is/is not a proof and basics of proof writing (*possibly an early workshop*) 
 - Proving conditional statements 
 - Proof by contradiction
@@ -93,6 +94,8 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 - Set theory and logic 
 - Functions
 - Matrices and complex numbers
+
+These are assigned at intervals, maybe a week in advance of when they're needed. Except for the first week stuff and maybe do those in class. 
 
 
 ## Portfolio 
@@ -134,5 +137,5 @@ F awarded if ANY area fails to reach level 1.
 
 ![Grade checklist concept](https://i.ibb.co/d0m2LBH/MTH-350-grade-checklist-concept.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NDg1MDc3LC0zNzc2OTU4OTNdfQ==
+eyJoaXN0b3J5IjpbMzM4OTg3NzI3LC0zNzc2OTU4OTNdfQ==
 -->
