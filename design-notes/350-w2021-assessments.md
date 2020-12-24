@@ -56,12 +56,19 @@ Bundles:
 - Engagement and community (workshop contributions, daily prep, weekly reflections) 
 - Project 
 
-Problem sets -- Once per week and include basic and starred problems 
+Problem sets -- Once per module and include basic and starred problems (so 12 of these) 
 
-Workshop
+Workshop -- also once per module (12) 
+
+Daily Prep -- once per meeting (24 ish) 
+
+Weekly reflections -- every Friday we have signi(12) 
 
 
 Then the final exam which just contributes +/- 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjEyNzAzOV19
+eyJoaXN0b3J5IjpbMjEwNDEyMzkwMV19
 -->
