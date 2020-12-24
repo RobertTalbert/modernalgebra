@@ -56,7 +56,7 @@ Bundles:
 - Engagement and community (workshop contributions, daily prep, weekly reflections) 
 - Project 
 
-Problem sets -- Once per module and include basic and starred problems (so 12 of these) 
+Problem sets -- Once per module and include basic and starred problems (so 11 of these) 
 
 Workshop -- also once per module (12) 
 
@@ -122,13 +122,6 @@ Also try to have all these available at the beginning, students can work on them
 Grading rubric will be given later but it's also 0//1/2/3. 
 
 # Course grade tabulations 
-
-| Grade | Foundations | Portfolio | Engagement | Project | 
-| ----- | ----- | ----- | ----- | -----| 
-| A | Level 3 | Level 3 | Level 3 | Level 3 | 
-| B | 
-| C | 
-| D | 
 
 A: Level 3 in Foundations and at least 2 other areas, no lower than Level 2 in the other. 
 B: Level 3 in Foundations and at least 1 other area, no  lower than Level 2 in the others. 
