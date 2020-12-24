@@ -82,6 +82,13 @@ DON'T use EMRN because that's the same rubric used for individual assessments! M
 | 2 | Earn "Pass" on all review assignments <br> AND earn M or better on 8 Basic Problem sets 
 | 1 | Earn M or better on 5 Basic problem sets 
 
+"Review" assignments include: 
+
+- Onboarding -- syllabus, calendar, grading system quiz
+- Setup on course tools (math typesetting, uploading PDF, Campuswire, etc.) 
+- 
+
+
 ## Portfolio 
 
 | Level | Requirements | 
@@ -121,5 +128,5 @@ F awarded if ANY area fails to reach level 1.
 
 ![Grade checklist concept](https://i.ibb.co/d0m2LBH/MTH-350-grade-checklist-concept.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzgzNTY1NywtMzc3Njk1ODkzXX0=
+eyJoaXN0b3J5IjpbLTIxMTA2MzAwMjAsLTM3NzY5NTg5M119
 -->
