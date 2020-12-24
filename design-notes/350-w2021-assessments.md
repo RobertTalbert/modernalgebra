@@ -56,10 +56,12 @@ Bundles:
 - Engagement and community (workshop contributions, daily prep, weekly reflections) 
 - Project 
 
+Problem sets -- Once per week and include basic and starred problems 
 
+Workshop
 
 
 Then the final exam which just contributes +/- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzQxMTE3XX0=
+eyJoaXN0b3J5IjpbLTU0NjEyNzAzOV19
 -->
