@@ -1,5 +1,44 @@
 # MTH 350 Winter 2021 Assessment planning
 
+## Revisiting everything 2020-12-29
+
+Take the list of learning targets as a given. How will I gather evidence that students are mastering those targets? 
+
+- Weekly homework sets that involve basic computations, comprehension of definitions and theorems, and simple proofs (or analysis of proofs) (includes reflection video) 
+- Problem Sets that provide opportunities for extensions and more difficult proofs -- some designated as acceptable for portfolio use 
+- Portfolio at the end of the semester as a showcase of proof/communication  
+- Writers workshop on Campuswire for mathematical reasoning and proof analysis 
+- Project for applications and extension 
+- Daily Prep 
+
+So the assessment categories are: 
+
+
+- Weekly Practice (appx 12)
+- Problem Sets (individual and group; "starred" problems part of the individual) (appx 6-8) 
+- Daily Prep (appx 24) 
+- Workshop and Reflections (appx 24) 
+- Project (1)
+- Proof portfolio (1) 
+
+Plus setup and review packages: 
+
+- Onboarding -- syllabus, calendar, grading system quiz
+- Setup on course tools (math typesetting, uploading PDF, Campuswire, etc.) 
+- *Proof basics: What is/is not a proof and basics of proof writing 
+- *Proving conditional statements incl. proof by contradiction
+- *Proof by induction
+- *Set theory and logic 
+- *Functions
+- *Matrices and complex numbers
+
+Math review (*) are Blackboard quizzes, 90% required to pass, three attempts. Purchase extra attempts with token. 
+Must pass all 8 to be eligible for a C or higher in the class. 
+
+
+
+
+---
 ## Overall philosophy
 
 - The course is more specs grading than SBG. We are looking at broad skills measured in bundles. 

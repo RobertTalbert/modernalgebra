@@ -52,7 +52,7 @@ Ted's book: [https://scholarworks.gvsu.edu/books/24/](https://scholarworks.gvsu.
 + State the definition of an *additive inverse* of an integer. 
 + Use the Axioms of Integer Arithmetic to prove basic results about integers (such as in Activity 1.6). 
 + State the *Ordering Axioms* of the integers. 
-+ Use the Ordering Axioms to prove basic results about integeres (such as in Theorem 1.7). 
++ Use the Ordering Axioms to prove basic results about integers (such as in Theorem 1.7). 
 
 ### Investigation 2
 
