@@ -15,16 +15,21 @@
 - Given a predicate over the natural numbers, determine the truth value of the predicate at a specific number. 
 - Given a proposition to prove that involves a predicate, state the **framework** for a proof by mathematical induction: The base case, the inductive hypothesis, and the inductive step. 
 
-### Set theory and logic 
+### Set theory  
 
 - Express a set of objects in both roster and set-builder notation, and convert between those two notations. 
 - Find the intersection, union, and set difference of two sets; and find the complement of a single set. 
 - Given two sets, determine whether one is a subset of the other; also determine if one is a proper subset of the other, and whether the two sets are equal. 
 - State what it means for two sets to be *equal* in terms of subset inclusion. 
-- 
+- Given a finite set, state its power set. 
+- Determine the cardinality of a set. 
+- Identify the major number systems (natural numbers, integers, rational numbers, real numbers, complex numbers) by their set symbol. 
 
 ### Functions
+
+- Given a mapping between two sets, determine if 
+
 ### Matrices and complex numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEzMzM2ODldfQ==
+eyJoaXN0b3J5IjpbLTE2NTA4ODUxNzBdfQ==
 -->
