@@ -40,7 +40,7 @@
 - Given a square matrix over the real numbers, determine if it is invertible. If it is, find its inverse. 
 - Given a complex number, state its real and imaginary parts. 
 - Given two complex numbers, find their sum, difference, and product. 
-- Compute the reciprocal of a complex number; and given two complex number 
+- Compute the reciprocal of a complex number; and given two complex numbers, divide them and express the quotient as another complex number.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTU0MzMzNF19
+eyJoaXN0b3J5IjpbMTUwMjI5NDQ3XX0=
 -->
