@@ -18,9 +18,11 @@
 ### Set theory and logic 
 
 - Express a set of objects in both roster and set-builder notation, and convert between those two notations. 
+- Find the intersection 
+- 
 
 ### Functions
 ### Matrices and complex numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcwNzA4NThdfQ==
+eyJoaXN0b3J5IjpbLTE2MjQ5Mjc2NzldfQ==
 -->
