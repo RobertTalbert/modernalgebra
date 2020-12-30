@@ -38,6 +38,9 @@
 - Given two matrices of the appropriate size, compute their sum and their product. 
 - Write the identity matrix of a given size. 
 - Given a square matrix over the real numbers, determine if it is invertible. If it is, find its inverse. 
+- Given a complex number, state its real and imaginary parts. 
+- Given two complex numbers, find their sum, difference, and product. 
+- Compute the reciprocal of a complex number; and given two complex number 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjIxMjkxMF19
+eyJoaXN0b3J5IjpbLTYyNTU0MzMzNF19
 -->
