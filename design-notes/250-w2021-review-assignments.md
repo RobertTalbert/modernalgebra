@@ -16,8 +16,11 @@
 - Given a proposition to prove that involves a predicate, state the **framework** for a proof by mathematical induction: The base case, the inductive hypothesis, and the inductive step. 
 
 ### Set theory and logic 
+
+- Express a set of objects in both roster and set-builder notation, and convert between those two notations. 
+
 ### Functions
 ### Matrices and complex numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NjI1NDc1XX0=
+eyJoaXN0b3J5IjpbLTExOTcwNzA4NThdfQ==
 -->
