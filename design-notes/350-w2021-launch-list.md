@@ -14,6 +14,8 @@
 	- Set theory and logic 
 	- Functions
 	- Matrices and complex numbers
+- First 3-4 workshops
+- First 3-4 reflections assignments 
 - Problem sets 1-3 and more
 - Template for problem set assignments
 - LaTeX template for problem set submissions
@@ -27,6 +29,9 @@
 - Token request form
 - Class recording request form 
 
+Video content: 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDQ1Njg0N119
+eyJoaXN0b3J5IjpbLTIwOTUxMjY4MTFdfQ==
 -->
