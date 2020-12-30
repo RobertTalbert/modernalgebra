@@ -18,11 +18,13 @@
 ### Set theory and logic 
 
 - Express a set of objects in both roster and set-builder notation, and convert between those two notations. 
-- Find the intersection 
+- Find the intersection, union, and set difference of two sets; and find the complement of a single set. 
+- Given two sets, determine whether one is a subset of the other; also determine if one is a proper subset of the other, and whether the two sets are equal. 
+- State what it means for two sets to be *equal* in terms of subset inclusion. 
 - 
 
 ### Functions
 ### Matrices and complex numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ5Mjc2NzldfQ==
+eyJoaXN0b3J5IjpbLTExNjEzMzM2ODldfQ==
 -->
