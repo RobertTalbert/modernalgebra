@@ -18,23 +18,15 @@
 - Template for problem set assignments
 - LaTeX template for problem set submissions
 - Template for Daily Prep 
-- List of AEP topics and rough release schedule 
-- Sample checkpoints (need to update)
-- Learning Target list 
 - Grading checklist 
-- Checkpoint guide (topics, question types, grading standards) 
 - Guide for typing up math with exemplars
-- Daily Preps for Module 1 (A/B)
-- Daily Prep for Module 2A/B
-- Daily Prep for Module 3A/B
-- More daily preps if possible 
-- WeBWorK Sets for Modules 1-3 and more 
+- First 6-7 Daily Preps  
 - Grade status board
 - Grade discrepancy form
 - Class slides for Modules 1-3 and more 
 - Token request form
 - Class recording request form 
-- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNDM5NzgzXX0=
+eyJoaXN0b3J5IjpbMTg2NDQ1Njg0N119
 -->
