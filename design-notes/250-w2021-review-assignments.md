@@ -27,9 +27,11 @@
 
 ### Functions
 
-- Given a mapping between two sets, determine if 
+- Given a rule of association between two sets, determine if it is a function; if so, then state its domain, codomain, and range. 
+- Given a function between two sets, find the image and preimage of various points. 
+- Given a function between two sets, determine if it is injective (one-to-one), surjective (onto), or bijective. 
 
 ### Matrices and complex numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA4ODUxNzBdfQ==
+eyJoaXN0b3J5IjpbMTQ4Nzg2MTEzOF19
 -->
