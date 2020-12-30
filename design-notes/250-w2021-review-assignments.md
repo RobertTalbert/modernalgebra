@@ -32,6 +32,10 @@
 - Given a function between two sets, determine if it is injective (one-to-one), surjective (onto), or bijective. 
 
 ### Matrices and complex numbers
+
+- Given a matrix, state its size (e.g. $3 \times 4$). 
+- Given two matrices of the appropriate size, compute their sum and their product. 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzg2MTEzOF19
+eyJoaXN0b3J5IjpbODY5MjM2NTU1XX0=
 -->
