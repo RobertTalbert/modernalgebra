@@ -32,7 +32,8 @@
 Video content: 
 
 - Grading system examples 
+- Welcome video 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTcwNzc4MV19
+eyJoaXN0b3J5IjpbODMzNTQwODUxXX0=
 -->
