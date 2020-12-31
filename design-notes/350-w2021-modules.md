@@ -33,6 +33,8 @@ Rough calendar:
 - Apr 5/7: Module 11
 - Apr 12/14: Module 12
 - Apr 20/22: Catch up/project presentations 
+
+Final exam block -- 4/27 10-12
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzA0NjE5LC02NzYxNDQ4NjZdfQ==
+eyJoaXN0b3J5IjpbLTE4MzQyMzU2MDQsLTY3NjE0NDg2Nl19
 -->
