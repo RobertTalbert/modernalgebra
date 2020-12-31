@@ -5,7 +5,7 @@ tags: mth350, syllabus
 
 # MTH 350-01: Calculus, Winter 2021 --- DRAFT 1
 
-**Welcome to MTH 201**! I'm Dr. Robert Talbert, Professor of Mathematics, and I am grateful that you are signed up for the course and am looking forward to working with you this semester.
+**Welcome to MTH 350**! I'm Dr. Robert Talbert, Professor of Mathematics, and I am grateful that you are signed up for the course and am looking forward to working with you this semester.
 
 ## What's MTH 350 all about? 
 
