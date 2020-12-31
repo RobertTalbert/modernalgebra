@@ -21,8 +21,14 @@ Rough calendar:
 - Jan 19: Startup and overview
 - Jan 21: Module 1
 - Jan 26/28: Module 2
-- Jan 26/28: Module 2
-- 
+- Feb 5/7: Module 3
+- Feb 12/14: Module 4
+- Feb 19/21: Module 5 
+- Feb 26/28: Module 6
+- Mar 2/4: Module 7
+- Mar 9/11: Module 8
+- Mar 16/18: Module 9
+- Mar 23/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTY2NTM5LC02NzYxNDQ4NjZdfQ==
+eyJoaXN0b3J5IjpbLTExMjM2Mjc3NjIsLTY3NjE0NDg2Nl19
 -->
