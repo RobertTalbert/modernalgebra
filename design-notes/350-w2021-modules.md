@@ -28,7 +28,11 @@ Rough calendar:
 - Mar 2/4: Module 7
 - Mar 9/11: Module 8
 - Mar 16/18: Module 9
-- Mar 23/
+- Mar 23/25: Module 10
+- Mar 30: Free day; Apr 1: Mental health day
+- Apr 5/7: Module 11
+- Apr 12/14: Module 12
+- Apr 20/22: Catch up/project presentations 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM2Mjc3NjIsLTY3NjE0NDg2Nl19
+eyJoaXN0b3J5IjpbLTQ0NzA0NjE5LC02NzYxNDQ4NjZdfQ==
 -->
