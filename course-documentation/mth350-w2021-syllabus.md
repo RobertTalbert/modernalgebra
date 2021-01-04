@@ -188,8 +188,10 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 
 ---
 
-## Appendix
+## Appendix: Initial course schedule and important dates 
+
+Please note, all dated items are found in the course calendar (Blackboard, in the *Syllabus and Calendar* area) and all and **if there is an apparent date conflict on course documents, that calendar is always considered to be correct**. Updates 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2Mjg5MjldfQ==
+eyJoaXN0b3J5IjpbLTgxMjc4MTQzNCw4MzYyODkyOV19
 -->
