@@ -106,17 +106,18 @@ A grade of F is given if **none** of the rows has been fully completed.
 + **Weekly Practice** and **Problem Sets**: Each type has its own standards for "acceptable work" outlined in the "Standards for Grading" document found on Blackboard in the *Syllabus and Calendar* area. The grading process is outlined in the flowchart below: 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
 + **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
-+ **Workshops:** A *Pass* mark is given if you give a response to the discussion prompt that is correct, clearly expressed, and substantive. You'll get feedback and a chance to revise if your response doesn't meet those criteria. 
-+ **Startup/Review assignments**: The Pass/No Pass critera for these are specified on the individual assignments. 
++ **Workshops:** A *Pass* mark is given if you give a response to the discussion prompt that is correct, clearly expressed, substantive, and given before the discussion is closed. A *No Pass* is given otherwise. 
++ **Startup/Review assignments**: The Pass/No Pass criteria for these are specified on the individual assignments. 
 + **Proof Portfolio** and **Project**: The criteria for the different marks will be given in detail later in the semester. 
 
 ## How do I revise and resubmit my work? 
 
-Instead of earning partial credit, on most assignments you will have the opportunity to revise and resubmit your work based on feedback that I provide, if the work doesn't meet its standard for acceptability. This works as follows: 
+Instead of earning partial credit, on most assignments you will have the opportunity to revise and resubmit your work based on feedback that I provide, if the work doesn't meet its standard for acceptability. **Mistakes, and work that does not meet the standard for acceptability, are typically not penalized.** Instead, if your work has enough errors that it would benefit from redoing parts of it or the whole thing, you'll get the chance to do so. This again is because **human beings learn from making mistakes and fixing them with feedback and reflection.** 
 
 + **Weekly Practice**: Each Weekly Practice may be revised **once**. To revise, simply reflect on the feedback that's given, make corrections or rewrites to the original, and then upload the work again to Blackboard. 
 + **Problem Sets**: Each Problem Set may be revised **once per week**. To revise, simply reflect on the feedback that's given, make corrections or rewrites to the original, and then upload the work again to Blackboard. 
 + **Daily Prep** assignments *may not* be revised or resubmitted. They are graded on completeness and effort only, and therefore can only be done once. 
++ **Workshop** responses will often get feedback (private if necessary) 
 + **Startup and Review Assignments**: The revision/reattempt policies for these will be specified on the individual assignments. 
 + **Proof portfolio:** This will be detailed later in the semester, but your portfolio will consist of work from your Problem Sets, so see the revision policies for those above. 
 + **Project:** The project may not be revised, but checkpoints for your work will be built into the project timeline, so you will have the chance to get feedback and make adjustments as you go. 
@@ -186,5 +187,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDIzMTY1OV19
+eyJoaXN0b3J5IjpbLTE5NjA1MDU5NzBdfQ==
 -->
