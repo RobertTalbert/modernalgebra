@@ -53,7 +53,7 @@ Since you learn math by *doing* math, class time will be prioritized for doing a
 + **Weekly Practice:** Homework sets given weekly that help you build the basic skills needed for understanding the course concepts. There are 12 of these planned. 
 + **Problem Sets:** Extended problem sets, mostly involving writing proofs. Some of these will be used in your Proof Portfolio (below). There are 6 of these planned. 
 + **Daily Prep:** Daily reading and (sometimes) videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for higher-level focused work in class. There are 24 of these planned. 
-+ **Proof Workshops:** Weekly discussion threads on Campuswire that will have you collaborate on relevant course-related tasks like analysis of proofs, breakdowns of definitions and theorems, and other activities. 
++ **Workshops:** Weekly discussion threads on Campuswire that will have you collaborate on relevant course-related tasks like analysis of proofs, breakdowns of definitions and theorems, and other activities. 
 + **Startup and Review Assignments:** Assignments done during the first half of the semester to build (or rebuild) your fluency with the course and the prerequisite mathematics, particularly from MTH 210. There are 6 of these planned. 
 
 There are also two major assignments in the course that only happen once. More information on both of these will be given later in the semester: 
@@ -66,7 +66,10 @@ We *do not* have a final exam in the course; however we will reserve the final e
 
 ## How do I earn a grade in the course? 
 
-Your grade in the course is earned by **demonstrating evidence of skill on the main concepts in the course** and **staying actively engaged with the course**. And this is done by completing the assignments outlined above, at a reasonably high level of quality. In our class, **there are no points or percentages** on most items. Instead, the work you turn in will be evaluated against **quality standards** that will be made clear on each assignment. If your work meets the standard, then you will receive full credit for it. Otherwise, you will get helpful feedback and, on most items, the chance to reflect on the feedback, revise your work, and then resubmit it for regrading. 
+
+Your grade in the course is earned by **demonstrating evidence of skill on the main concepts in the course** and by **showing appropriate engagement with the course**. And this is done by completing the assignments outlined above, at a reasonably high level of quality. 
+
+In our class, **there are no points or percentages** on most items. Instead, the work you turn in will be evaluated against **quality standards** that will be made clear on each assignment. If your work meets the standard, then you will receive full credit for it. Otherwise, you will get helpful feedback and, on most items, the chance to reflect on the feedback, revise your work, and then resubmit it for regrading. 
 
 This feedback loop represents and supports the way that people learn: By trying things, making mistakes, reflecting on those mistakes, and then trying again. **You can make mistakes without penalty** as long as you *eventually* demonstrate evidence of skill. 
 
@@ -77,6 +80,7 @@ The individual types of assignments are marked as follows:
 | Weekly Practice | E (Excellent), M (Meets Expectations), P (Progressing), or X (Not Assessable) | 
 | Problem Sets | E (Excellent), M (Meets Expectations), P (Progressing), or X (Not Assessable) | 
 | Daily Prep | **Pass** or **No Pass** | 
+| Workshops | **Pass** or **No Pass** |
 | Startup/Review Assignments | **Pass** or **No Pass** | 
 | Proof Portfolio | **High Pass**, **Pass**, or **No Pass** | 
 | Project | **High Pass**, **Pass**, or **No Pass** | 
@@ -181,5 +185,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDc0OTY5M119
+eyJoaXN0b3J5IjpbMTI1NDI3NzI2MF19
 -->
