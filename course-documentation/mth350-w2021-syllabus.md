@@ -190,12 +190,12 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 
 ## Appendix: Initial course schedule and important dates 
 
-Please note, all dated items are found in the course calendar (Blackboard, in the *Syllabus and Calendar* area) and all updates to this initial schedule will be made there. **If there is an apparent date conflict on course documents, that calendar is always considered to be correct**.
+Please note, all dated items are found in the course calendar (Blackboard, in the *Syllabus and Calendar* area) and all updates to this initial schedule will be made there. Also, *this schedule is not all-inclusive*: Due dates, additional events, etc. appear on the course calendar. **If there is an apparent date conflict on course documents, that calendar is always considered to be correct**.
   
   
 | Dates | Course module | Textbook coverage | Topics |
-| :------: | "-------- | -------- | -------- |
-| January 19-22 | 1      |  Review and Investigation 1  | Axioms of arithmetic | 
+| :------: | :--------: | :--------: | :--------: |
+| January 19-22 | 1      |  Startup and Investigation 1  | Axioms of arithmetic | 
 | January 25-29 | 2      |  Investigation 2        |  Divisibility of integers; integer congruence          |
 | February 1-5 | 3      |  Investigation 3        |  Greatest common divisors        |
 | February 8-12 | 4      |  Investigation 4        |  Prime numbers; the Fundamental Theorem of Algebra; primes in other number systems        |
@@ -217,5 +217,5 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0OTA4Mjc4LDgzNjI4OTI5XX0=
+eyJoaXN0b3J5IjpbNTc1MTcyMjY5LDgzNjI4OTI5XX0=
 -->
