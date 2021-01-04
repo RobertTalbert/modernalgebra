@@ -16,15 +16,9 @@ MTH 350 takes on two big questions in mathematics:
 1. **How do arithmetic and algebra actually work?** For example, you probably know that every positive integer can be factored into a product of prime numbers, like $20 = 2 \times 2 \times 5$. But do you know *why* this is true, for *all* positive integers? 
 2. **Can the rules of arithmetic and algebra be extended to mathematical objects that aren't necessarily numbers?** Take multiplication for example. We multiply numbers together, but we multiply things like matrices together too. How much of our rules for multiplication of *numbers*, work on *matrices*? Does matrix multiplication satisfy the commutative property, or the associative property? Can you "divide" matrices? Can we "factor" a matrix into a product of "prime" matrices? Is there even a sensible definition of these concepts? 
 
-This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong s
+This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong skills in mathematical abstraction is perhaps the main goal of this course (which is sometimes called "abstract algebra"). 
 
-
-When we discover the underlying rules for how something works and then try to understand where else those rules can be applied, we are engaging in **abstraction**. One of the primary goals of MTH 350 is to build strong skills in *mathematical abstraction*, which can help you solve previously-intractable problems 
-
-
-
-
-the question of **how arithmetic and algebra actually work**, and **how our knowledge of arithmetic and algebra can work on things other than numbers**. For example, you might know that every integer can be factored into prime numbers --- but *why*? And you might realize that 
+However, the concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 in a position of strength when you teach high school algb
 
 
 The concepts in this course are useful in applications (for example, modern cryptographic systems are based on the math in this course) as well as for providing a rigorous foundation for the teaching of middle- and high-school level mathematics. And, it’s just plain awesome.
@@ -189,5 +183,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTkzNTgxOF19
+eyJoaXN0b3J5IjpbMTQ2NzU4NDcwMV19
 -->
