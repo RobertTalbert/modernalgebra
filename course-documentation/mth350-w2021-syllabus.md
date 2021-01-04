@@ -194,18 +194,18 @@ Please note, all dated items are found in the course calendar (Blackboard, in th
   
   
 | Dates | Course module | Textbook coverage | Topics |
-| ------ | -------- | -------- | -------- |
-|  | 1      |  Review and Investigation 1  | Axioms of arithmetic | 
-|  | 2      |  Investigation 2        |  Divisibility of integers; integer congruence          |
-|  | 3      |  Investigation 3        |  Greatest common divisors        |
-|  | 4      |  Investigation 4        |  Prime numbers; the Fundamental Theorem of Algebra; primes in other number systems        |
-| |  5      |  Investigation 5 part 1        |  Equivalence relations and classes, $\mathbb{Z}_n$        |
-|  | 6      |  Investigation 5 part 2    |  Properties of $\mathbb{Z}_n$; units and zero divisors       |
-|  | 7      |  Investigation 6        |  Algebra in other number systems; algebra with matrices and sets     |
-|  | 8      |  Investigation 7 part 1       | Ring axioms through multiplicative inverses         |
-|  | 9      |  Investigation 7 part 2    | Units, zero divisors; integral domains and fields           |
-|  | 10      | Investigation 8         |  Integer multiplication and exponentiation in rings; the characteristic of a ring        |
-| March 29-April 2 | Free Week! | Free day on 3/30; Mental health day on 4/1 | 
+| :------: | "-------- | -------- | -------- |
+| January 19-22 | 1      |  Review and Investigation 1  | Axioms of arithmetic | 
+| January 25-29 | 2      |  Investigation 2        |  Divisibility of integers; integer congruence          |
+| February 1-5 | 3      |  Investigation 3        |  Greatest common divisors        |
+| February 8-12 | 4      |  Investigation 4        |  Prime numbers; the Fundamental Theorem of Algebra; primes in other number systems        |
+| February 15-19|  5      |  Investigation 5 part 1        |  Equivalence relations and classes, $\mathbb{Z}_n$        |
+| February 22-26 | 6      |  Investigation 5 part 2    |  Properties of $\mathbb{Z}_n$; units and zero divisors       |
+| March 1-5 | 7      |  Investigation 6        |  Algebra in other number systems; algebra with matrices and sets     |
+| March 8-12 | 8      |  Investigation 7 part 1       | Ring axioms through multiplicative inverses         |
+| March 15-19 | 9      |  Investigation 7 part 2    | Units, zero divisors; integral domains and fields           |
+| March 22-26 | 10      | Investigation 8         |  Integer multiplication and exponentiation in rings; the characteristic of a ring        |
+| March 29-April 2 | Free Week! | Free day on 3/30; Mental health day on 4/1 | Nothing | 
 | April 5-9 | 11      | Investigation 9         |  Subrings, subfields, field extensions        |
 | April 12-16  | 12      |  Investigation 10        | Ring isomorphisms, isomorphism invariants |
 
@@ -217,5 +217,5 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NDI4MzksODM2Mjg5MjldfQ==
+eyJoaXN0b3J5IjpbNDE0OTA4Mjc4LDgzNjI4OTI5XX0=
 -->
