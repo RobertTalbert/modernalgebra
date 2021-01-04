@@ -11,10 +11,16 @@ tags: mth350, syllabus
 
 MTH 350 takes on two big questions in mathematics: 
 
-1. **How do arithmetic and algebra actually work?** For example, you are probably aware that every positive integer can be factored into a product of prime numbers, like $20 = 2 \times 2 \times 5$. But do you know *why* this is true, for *all* positive integers? Algebra and arithmetic are full of facts that we tend to accept without question; in MTH 350 we will discover the real truths behind many of these. 
+1. **How do arithmetic and algebra actually work?** For example, you are probably aware that every positive integer can be factored into a product of prime numbers, like $20 = 2 \times 2 \times 5$. But do you know *why* this is true, for *all* positive integers? 
 2. **Can the rules of arithmetic and algebra be extended to mathematical objects that aren't necessarily numbers?** For example, multiplication --- we multiply numbers together (and this is the basis of a lot of arithmetic) but we also multiply things like matrices together too. How much of our rules for multiplication work on matrices? Is multiplication commutative? Can you always divide? Can we "factor" a matrix into a product of "prime" matrices? Is there even a sensible definition of these concepts? 
 
-When we discover the underlying rules for how something works and then try to understand where else those rules can be applied, we are engaging in **abstraction**. 
+The algebra and arithmetic we learn in school are full of facts that we tend to accept without question. In MTH 350, we will discov
+
+
+; in MTH 350 we will discover the real truths behind many of these. 
+
+
+When we discover the underlying rules for how something works and then try to understand where else those rules can be applied, we are engaging in **abstraction**. One of the primary goals of MTH 350 is to build strong skills in *mathematical abstraction*, which can help you solve previously-intractable problems 
 
 
 
@@ -184,5 +190,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mjc1Njg4NF19
+eyJoaXN0b3J5IjpbNTQxMzg0MjY5XX0=
 -->
