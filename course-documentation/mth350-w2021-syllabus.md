@@ -9,7 +9,19 @@ tags: mth350, syllabus
 
 ## What's MTH 350 all about? 
 
+MTH 350 takes on two big questions in mathematics: 
 
+1. How do arithmetic and algebra actual
+
+
+
+the question of **how arithmetic and algebra actually work**, and **how our knowledge of arithmetic and algebra can work on things other than numbers**. For example, you might know that every integer can be factored into prime numbers --- but *why*? And you might realize that 
+
+
+The concepts in this course are useful in applications (for example, modern cryptographic systems are based on the math in this course) as well as for providing a rigorous foundation for the teaching of middle- and high-school level mathematics. And, it’s just plain awesome.
+
+  
+Important note:  MTH 350 is a rigorous proof-based course. A prerequisite for this course is MTH 210, and students are expected to enter MTH 350 with at least moderate fluency and skill in reading, analyzing, and writing mathematical proofs, and we will be engaging in these activities almost daily. You need to be comfortable with proof, and either skilled with writing proofs or open to improving your skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
 
 **Prerequisites:** 
 
@@ -168,5 +180,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NzQzNjk5XX0=
+eyJoaXN0b3J5IjpbLTQwNDcwOTg4M119
 -->
