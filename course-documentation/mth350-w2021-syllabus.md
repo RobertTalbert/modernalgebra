@@ -211,8 +211,10 @@ Please note, all dated items are found in the course calendar (Blackboard, in th
 Other important dates: 
 
 - Friday March 19: Deadline to drop Winter 2021 classes with a "W" 
+- Tuesday March 30: Free day, no class meeting but exclusive drop-in hours during class time for MTH 350 only
 - Thursday April 1: Mental Health day, no class meeting
-- 
+- Friday April 23 11:59pm Eastern: Deadline for token requests
+- Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDE4Mjk5Nyw4MzYyODkyOV19
+eyJoaXN0b3J5IjpbLTQyOTAyOTI0Miw4MzYyODkyOV19
 -->
