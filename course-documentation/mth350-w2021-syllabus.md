@@ -18,9 +18,11 @@ MTH 350 takes on two big questions in mathematics:
 
 This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong skills in mathematical abstraction is perhaps the main goal of this course (which is sometimes called "abstract algebra"). 
 
-The concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 able to communicate to your future students not only what the rules are, but why they work. You'll have the opportunity to explore either of these applications and more as part of the course. 
-  
-Important note:  MTH 350 is a rigorous proof-based course. A prerequisite for this course is MTH 210, and students are expected to enter MTH 350 with at least moderate fluency and skill in reading, analyzing, and writing mathematical proofs, and we will be engaging in these activities almost daily. You need to be comfortable with proof, and either skilled with writing proofs or open to improving your skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
+The concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 able to communicate to your future students not only what the rules of algebra *are*, but *why they work*. You'll have the opportunity to explore either of these applications and more as part of the course. 
+
+**MTH 350 is a proof-based course.** A prerequisite for this course is MTH 210, and students are expected to enter MTH 350 with at least moderate fluency and skill in reading, analyzing, and writing mathematical proofs, and we will be engaging in these activities almost daily. You need to be comfortable with proof, and either skilled with writing proofs or open to improving your skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
+
+MTH 350 is challenging, made even moreso by the pandemic ad the
 
 **Prerequisites:** 
 
@@ -179,5 +181,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NDIwMzhdfQ==
+eyJoaXN0b3J5IjpbLTkyNzA0ODM2N119
 -->
