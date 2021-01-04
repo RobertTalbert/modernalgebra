@@ -191,11 +191,27 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix: Initial course schedule and important dates 
 
 Please note, all dated items are found in the course calendar (Blackboard, in the *Syllabus and Calendar* area) and all updates to this initial schedule will be made there. **If there is an apparent date conflict on course documents, that calendar is always considered to be correct**.
+  
+  
+| Course module | Textbook coverage | Topics |
+| ------ | -------- | -------- |
+|  1      |  Review and Investigation 1  | 
+|  2      |  Investigation 2        |          |
+|  3      |  Investigation 3        |          |
+|  4      |  Investigation 4        |          |
+|  5      |  Investigation 5 part 1        |  Congruence classes, $\mathbb{Z}_n$        |
+|  6      |  Investigation 5 part 2    |  Properties of $\mathbb{Z}_n$       |
+|  7      |  Investigation 6        |          |
+|  8      |  Investigation 7 part 1       | Ring axioms through multiplicative inverses         |
+|  9      |  Investigation 7 part 2    | Units through fields          |
+|  10      | Investigation 8         |          |
+|  11      | Investigation 9         |          |
+| 12      |  Investigation 10        |
 
-| Course Module | Dates | Textbook coverage | 
-| :--------: | :---: | :--------------: | 
-|  
+Other important dates: 
 
+- Thursday April 1: Mental Health day, no class meeting
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDYyNzU5NCw4MzYyODkyOV19
+eyJoaXN0b3J5IjpbLTIwODY1MzQ1NjQsODM2Mjg5MjldfQ==
 -->
