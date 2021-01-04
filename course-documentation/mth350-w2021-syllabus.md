@@ -14,11 +14,11 @@ The algebra and arithmetic we learn in school are full of facts that students te
 MTH 350 takes on two big questions in mathematics: 
 
 1. **How do arithmetic and algebra actually work?** For example, you probably know that every positive integer can be factored into a product of prime numbers, like $20 = 2 \times 2 \times 5$. But do you know *why* this is true, for *all* positive integers? 
-2. **Can the rules of arithmetic and algebra be extended to mathematical objects that aren't necessarily numbers?** Take multiplication for example. We multiply numbers together, but we multiply things like matrices together too. How much of our rules for multiplication of *numbers*, work on *matrices*? Does matrix multiplication satisfy the commutative property, or the associative property? Can you "divide" matrices? Can we "factor" a matrix into a product of "prime" matrices? Is there even a sensible definition of these concepts? 
+2. **Can the rules of arithmetic and algebra be extended to mathematical objects that aren't necessarily numbers?** Take multiplication for example. We multiply numbers together, but we multiply things like matrices together too. How much of our rules for multiplication of *numbers*, work for *matrices*? Does matrix multiplication satisfy the commutative property, or the associative property? Can you "divide" matrices? Can we "factor" a matrix into a product of "prime" matrices? Is there even a sensible definition of these concepts? 
 
 This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong skills in mathematical abstraction is perhaps the main goal of this course (which is sometimes called "abstract algebra"). 
 
-However, the concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 able to communicate to your future students not only what the rules are, but why they work. 
+The concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 able to communicate to your future students not only what the rules are, but why they work. You'll have the opportunity to explore either of these applications and more as part of the course. 
   
 Important note:  MTH 350 is a rigorous proof-based course. A prerequisite for this course is MTH 210, and students are expected to enter MTH 350 with at least moderate fluency and skill in reading, analyzing, and writing mathematical proofs, and we will be engaging in these activities almost daily. You need to be comfortable with proof, and either skilled with writing proofs or open to improving your skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
 
@@ -179,5 +179,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjgxMDgwOF19
+eyJoaXN0b3J5IjpbNjM2NDIwMzhdfQ==
 -->
