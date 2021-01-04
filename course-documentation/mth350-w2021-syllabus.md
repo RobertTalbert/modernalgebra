@@ -59,7 +59,7 @@ Since you learn math by *doing* math, class time will be prioritized for doing a
 There are also two major assignments in the course that only happen once. More information on both of these will be given later in the semester: 
 
 + **Proof Portfolio:** A collection of your best proof-writing work, gathered from your Problem Sets. 
-+ **Project:** You'll work individually or in a pair to explore a topic related to, but not necessarily covered in the course. Topics will be left up to you but can include research questions, applications to real-life problems, or applications of the course to K-12 teaching situations. The project will involve a written product as well as a "trailer" video and a brief presentation to the class (taking place during the last week of classes). 
++ **Project:** You'll work individually or in a pair to explore a topic related to, but not necessarily covered in the course. Topics will be left up to you but can include research questions, applications to real-life problems, or applications of the course to K-12 teaching situations. The project will involve a written product, a  "trailer" video, and a brief presentation to the class during the last week of classes. 
 
 We *do not* have a final exam in the course; however we will reserve the final exam time slot (April 27 from 10:00-11:50am) in case we need more time slots for project presentations. 
 
@@ -181,5 +181,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTQ5NjRdfQ==
+eyJoaXN0b3J5IjpbMTAyMTE1OTkxOF19
 -->
