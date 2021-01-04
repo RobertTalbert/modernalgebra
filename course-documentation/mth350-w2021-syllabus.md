@@ -90,11 +90,11 @@ The critera for the different marks are explained in the *"How are individual as
 Your final grade in the course is determined by the following table. Each grade has a *requirement* specified in its row in the table. **To earn a grade, you will need to meet *all* the requirements in the row for that grade.** Put differently, your grade is the **highest** grade level for which **all** the requirements in a row of the table have been met or exceeded.
 
 | Grade | Weekly Practice with M or E | Problem Sets with M or E | Daily Prep Passed |  Workshops Passed | Startup/Review Assignments Passed | Proof Portfolo  and Project | 
-| :---: | :----------- | ----------------- | ----------- | ------------- | ---------- | ---------- |  ---------- |
+| :---: | :-----------: | :-----------------: | :-----------: | :-------------: | :----------: | :----------: |  :----------: |
 | A | 10 | 5 | 20 | 10 | 6 | Pass on both, High Pass on one | 
 | B | 9 | 4 | 18 | 8 | 6 | Pass on both | 
 | C | 8 | 3 | 16 | 6  | 6 | Pass on Proof Portfolio | 
-| D | 4 | 1 | 12 | 2 | n/a | Pass on one | 
+| D | 4 | 1 | 10 | 2 | n/a | Pass on one | 
 
 
 A grade of F is given if **none** of the rows has been fully completed. 
@@ -103,7 +103,7 @@ A grade of F is given if **none** of the rows has been fully completed.
 
 ## How are individual assignments graded? 
 
-+ **Weekly Practice** and **Problem Sets**: Each type has its own standards for "acceptable work" outlined in the XXX document. The grading process is outlined in the flowchart below: 
++ **Weekly Practice** and **Problem Sets**: Each type has its own standards for "acceptable work" outlined in the "Standards for Grading" document found on Blackboard in the "Syllabus and Calendar. The grading process is outlined in the flowchart below: 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
 + **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 + **Startup/Review assignments**: The Pass/No Pass critera for these are specified on the individual assignments. 
@@ -185,5 +185,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzkyMDcxNl19
+eyJoaXN0b3J5IjpbLTIwNDMyMjQ3NDVdfQ==
 -->
