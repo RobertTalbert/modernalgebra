@@ -85,16 +85,16 @@ The individual types of assignments are marked as follows:
 | Proof Portfolio | **High Pass**, **Pass**, or **No Pass** | 
 | Project | **High Pass**, **Pass**, or **No Pass** | 
 
-The critera for the different marks are explained in the "xxxxxxx" section below. 
+The critera for the different marks are explained in the *"How are individual assignments graded?"* section below. 
 
 Your final grade in the course is determined by the following table. Each grade has a *requirement* specified in its row in the table. **To earn a grade, you will need to meet *all* the requirements in the row for that grade.** Put differently, your grade is the **highest** grade level for which **all** the requirements in a row of the table have been met or exceeded.
 
 | Grade | Weekly Practice with M or E | Problem Sets with M or E | Daily Prep Passed |  Workshops Passed | Startup/Review Assignments Passed | Proof Portfolo  and Project | 
-| --- | ----------- | ----------------- | ----------- | ------------- | ---------- | ---------- |  ---------- |
+| :---: | :----------- | ----------------- | ----------- | ------------- | ---------- | ---------- |  ---------- |
 | A | 10 | 5 | 20 | 10 | 6 | Pass on both, High Pass on one | 
-| B | 9 | 4 | 18 |  | 6 | Pass on both | 
-| C | 8 | 3 | 16 | | 6 | Pass on Proof Portfolio | 
-| D | 4 | 1 | 12 | | n/a | Pass on one | 
+| B | 9 | 4 | 18 | 8 | 6 | Pass on both | 
+| C | 8 | 3 | 16 | 6  | 6 | Pass on Proof Portfolio | 
+| D | 4 | 1 | 12 | 2 | n/a | Pass on one | 
 
 
 A grade of F is given if **none** of the rows has been fully completed. 
@@ -185,5 +185,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODYwOTE2NV19
+eyJoaXN0b3J5IjpbLTQ0NzkyMDcxNl19
 -->
