@@ -210,8 +210,9 @@ Please note, all dated items are found in the course calendar (Blackboard, in th
 
 Other important dates: 
 
+- Friday March 19: Deadline to drop Winter 2021 classes with a "W" 
 - Thursday April 1: Mental Health day, no class meeting
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY1MzQ1NjQsODM2Mjg5MjldfQ==
+eyJoaXN0b3J5IjpbLTkwNDE4Mjk5Nyw4MzYyODkyOV19
 -->
