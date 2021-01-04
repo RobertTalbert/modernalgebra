@@ -33,10 +33,10 @@ MTH 350 is challenging, made even moreso by the pandemic and the online format o
 + **Definition of a "week"**: For this class, a "week" runs from 12:01am Eastern time on Monday through 11:59pm Eastern time on the following Sunday. 
 + **Professor contact:** Email at talbertr@gvsu.edu, or direct-message me on Campuswire. If you have a question that the entire class might answer, please post it to the Class Feed on Campuswire instead of in a private message. 
 + **Professor availability:** I check messages regularly between the hours of 7:00am and 5:00pm on weekdays, and once on Saturdays; if you contact me during those hours and your message needs a reply, you can expect to receive one within a few hours, often sooner. *Outside of those hours, particularly on weekends, I am offline and not checking messages.* Please plan accordingly as you schedule your work. 
-+ **Drop-in hours**: XXXXX on Campuswire (via Live Sesssions). You do *not* need an appointment for drop-in hours.
++ **Drop-in hours**: These will be held on Campuswire via Live Sesssions feature. You do *not* need an appointment for drop-in hours. Specific drop-in times will be determined during week 1. 
 + **Textbook**: _Abstract Algebra: An Inquiry-Based Approach_ by Hodge, Schlicker, and Sundstrom. 
 + **Course materials**: All course files, the class calendar, class forms, and most graded assignments are housed on Blackboard (http://mybb.gvsu.edu). 
-+ **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (link). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
++ **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (https://campuswire.com/c/G43C11C2E/). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
 
 ## What will class meetings be like? 
 
@@ -181,5 +181,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTE3MTIzNl19
+eyJoaXN0b3J5IjpbLTEzOTk5OTk2Ml19
 -->
