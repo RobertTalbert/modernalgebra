@@ -11,7 +11,8 @@ tags: mth350, syllabus
 
 MTH 350 takes on two big questions in mathematics: 
 
-1. How do arithmetic and algebra actual
+1. **How do arithmetic and algebra actually work?** For example, you are probably aware that every positive integer can be factored into a product of prime numbers, like $20 = 2 \times 2 \times 5$. But do you know *why* this is true, for *all* positi
+2. **Can the rules of arithmetic and algebra be extended to other kinds of mathematical objects?** For example
 
 
 
@@ -180,5 +181,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDcwOTg4M119
+eyJoaXN0b3J5IjpbLTI0NzQyMDgyNV19
 -->
