@@ -12,7 +12,7 @@ tags: mth350, syllabus
 MTH 350 takes on two big questions in mathematics: 
 
 1. **How do arithmetic and algebra actually work?** For example, you are probably aware that every positive integer can be factored into a product of prime numbers, like $20 = 2 \times 2 \times 5$. But do you know *why* this is true, for *all* positive integers? Algebra and arithmetic are full of facts that we tend to accept without question; in MTH 350 we will discover the real truths behind many of these. 
-2. **Can the rules of arithmetic and algebra be extended to other kinds of mathematical objects?** For example, multiplication --- we multiply integers together (and this is the basis of a lot of arithmetic) but we also multiply things like real numbers, polynomials, and matrices together too. Do the rules for multiplication work 
+2. **Can the rules of arithmetic and algebra be extended to other kinds of mathematical objects?** For example, multiplication --- we multiply numbers together (and this is the basis of a lot of arithmetic) but we also multiply things like matrices together too. How much of our rules for multiplication carry over to objects that are not numbers? Is multiplication commutative? Can you always divide? Can we "factor
 
 
 
@@ -181,5 +181,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAyNzg3NzVdfQ==
+eyJoaXN0b3J5IjpbODQ1NzY5MjMwXX0=
 -->
