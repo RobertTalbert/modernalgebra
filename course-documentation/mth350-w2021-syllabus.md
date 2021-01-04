@@ -117,12 +117,12 @@ Instead of earning partial credit, on most assignments you will have the opportu
 + **Weekly Practice**: Each Weekly Practice may be revised **once**. To revise, simply reflect on the feedback that's given, make corrections or rewrites to the original, and then upload the work again to Blackboard. 
 + **Problem Sets**: Each Problem Set may be revised **once per week**. To revise, simply reflect on the feedback that's given, make corrections or rewrites to the original, and then upload the work again to Blackboard. 
 + **Daily Prep** assignments *may not* be revised or resubmitted. They are graded on completeness and effort only, and therefore can only be done once. 
-+ **Workshop** responses will often get feedback (private if necessary) 
++ **Workshop** responses will get immediate feedback (privately if necessary) if the response doesn't meet "Pass" quality, and you can fix it on the spot. However you won't be able to go back in and revise a response after the discussion is closed. 
 + **Startup and Review Assignments**: The revision/reattempt policies for these will be specified on the individual assignments. 
 + **Proof portfolio:** This will be detailed later in the semester, but your portfolio will consist of work from your Problem Sets, so see the revision policies for those above. 
 + **Project:** The project may not be revised, but checkpoints for your work will be built into the project timeline, so you will have the chance to get feedback and make adjustments as you go. 
 
-**Revisions of Weekly Practice or Problem Sets marked "X" cost one token** (see below). 
+Please note: **Revisions of Weekly Practice or Problem Sets marked "X" cost one token** (see below). 
 
 
 **Tokens:** Each student starts the semester with 5 **tokens**, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form (found in the in the *Submit a Form* area on Blackboard), fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or confirmation. Everything listed here costs 1 token: 
@@ -132,6 +132,8 @@ Instead of earning partial credit, on most assignments you will have the opportu
 + Extend any deadline *except for Daily Prep* by 12 hours. 
 + Revise a Weekly Practice or Problem Set marked "X". 
 + Convert a "No Pass" on a Daily Prep to a "Pass". 
++ Convert a "No Pass" on a Workshop response to a "Pass". 
+
 
 ## What else do I need to know? (Additional course policies) 
 
@@ -187,5 +189,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA1MDU5NzBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTUxOTc5MzBdfQ==
 -->
