@@ -22,9 +22,9 @@ The concepts in this course are also useful in the real world. For example, most
 
 **MTH 350 is a proof-based course.** A prerequisite for this course is MTH 210, and students are expected to enter MTH 350 with at least moderate fluency and skill in reading, analyzing, and writing mathematical proofs, and we will be engaging in these activities almost daily. You need to be comfortable with proof, and either skilled with writing proofs or open to improving your skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
 
-MTH 350 is challenging, made even moreso by the pandemic and the online format of the course. However please note that **my primary role in this course is to help you learn and succeed in the course**. 
+MTH 350 is challenging, made even moreso by the pandemic and the online format of the course. However please note that **my primary role in this course is to help you learn and succeed in the course**. Please call on me at any time (see below) if you have any needs whatsoever. 
 
-**Prerequisites:** 
+**Prerequisites:** [MTH 210](https://www.gvsu.edu/catalog/2020-2021/course/mth-210.htm) and either [MTH 225](https://www.gvsu.edu/catalog/2020-2021/course/mth-225.htm) or [MTH 204](https://www.gvsu.edu/catalog/2020-2021/course/mth-204.htm).
 
 ## Key Information 
 
@@ -181,5 +181,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcyMDYxMTZdfQ==
+eyJoaXN0b3J5IjpbMTk3MTE3MTIzNl19
 -->
