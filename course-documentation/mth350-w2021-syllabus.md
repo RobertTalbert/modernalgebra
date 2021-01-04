@@ -53,8 +53,8 @@ Since you learn math by *doing* math, class time will be prioritized for doing a
 + **Weekly Practice:** Homework sets given weekly that help you build the basic skills needed for understanding the course concepts. There are 12 of these planned. 
 + **Problem Sets:** Extended problem sets, mostly involving writing proofs. Some of these will be used in your Proof Portfolio (below). There are 6 of these planned. 
 + **Daily Prep:** Daily reading and (sometimes) videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for higher-level focused work in class. There are 24 of these planned. 
-+ **Proof Workshops:** Weekly discussion threads on Campuswire that will have you collaborate on detailed analyses of one or more written proofs. 
-+ **Startup and Review Assignments:** Assignments done near the beginning of the course to get you setup and fluent with the course and the prerequisite mathematics, particularly from MTH 210. There are 6 of these planned. 
++ **Proof Workshops:** Weekly discussion threads on Campuswire that will have you collaborate on relevant course-related tasks like analysis of proofs, breakdowns of definitions and theorems, and other activities. 
++ **Startup and Review Assignments:** Assignments done during the first half of the semester to build (or rebuild) your fluency with the course and the prerequisite mathematics, particularly from MTH 210. There are 6 of these planned. 
 
 There are also two major assignments in the course that only happen once. More information on both of these will be given later in the semester: 
 
@@ -181,5 +181,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk5OTk2Ml19
+eyJoaXN0b3J5IjpbMjYzOTQ5NjRdfQ==
 -->
