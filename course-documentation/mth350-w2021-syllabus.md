@@ -103,9 +103,10 @@ A grade of F is given if **none** of the rows has been fully completed.
 
 ## How are individual assignments graded? 
 
-+ **Weekly Practice** and **Problem Sets**: Each type has its own standards for "acceptable work" outlined in the "Standards for Grading" document found on Blackboard in the "Syllabus and Calendar. The grading process is outlined in the flowchart below: 
++ **Weekly Practice** and **Problem Sets**: Each type has its own standards for "acceptable work" outlined in the "Standards for Grading" document found on Blackboard in the *Syllabus and Calendar* area. The grading process is outlined in the flowchart below: 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
 + **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
++ **Workshops:** A *Pass* mark is given if you give a response to the discussion prompt that is correct, clearly expressed, and substantive. You'll get feedback and a chance to revise if your response doesn't meet those criteria. 
 + **Startup/Review assignments**: The Pass/No Pass critera for these are specified on the individual assignments. 
 + **Proof Portfolio** and **Project**: The criteria for the different marks will be given in detail later in the semester. 
 
@@ -185,5 +186,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMyMjQ3NDVdfQ==
+eyJoaXN0b3J5IjpbMTMwMDIzMTY1OV19
 -->
