@@ -195,8 +195,8 @@ Please note, all dated items are found in the course calendar (Blackboard, in th
   
 | Course module | Textbook coverage | Topics |
 | ------ | -------- | -------- |
-|  1      |  Review and Investigation 1  | 
-|  2      |  Investigation 2        |          |
+|  1      |  Review and Investigation 1  | Axioms of arithmetic | 
+|  2      |  Investigation 2        |  Divisibility of integers; integer congruence          |
 |  3      |  Investigation 3        |          |
 |  4      |  Investigation 4        |          |
 |  5      |  Investigation 5 part 1        |  Congruence classes, $\mathbb{Z}_n$        |
@@ -214,7 +214,7 @@ Other important dates:
 - Tuesday March 30: Free day, no class meeting but exclusive drop-in hours during class time for MTH 350 only
 - Thursday April 1: Mental Health day, no class meeting
 - Friday April 23 11:59pm Eastern: Deadline for token requests
-- Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and d
+- Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTAyOTI0Miw4MzYyODkyOV19
+eyJoaXN0b3J5IjpbMzE4NzUyMDM0LDgzNjI4OTI5XX0=
 -->
