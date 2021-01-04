@@ -9,7 +9,7 @@ tags: mth350, syllabus
 
 ## What's MTH 350 all about? 
 
-The algebra and arithmetic we learn in school are full of facts that students tend to accept without question. In MTH 350, we will **discover the real truths behind many of these**, and then try to see **how far we can bend the rules we discover before they break**. 
+The algebra and arithmetic we learn in school are full of facts that students tend to accept without question. In MTH 350, we will **discover the real rules behind much of algebra**, and then try to see **how far we can bend the rules that we discover before they break**. 
 
 MTH 350 takes on two big questions in mathematics: 
 
@@ -18,11 +18,7 @@ MTH 350 takes on two big questions in mathematics:
 
 This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong skills in mathematical abstraction is perhaps the main goal of this course (which is sometimes called "abstract algebra"). 
 
-However, the concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 in a position of strength when you teach high school algb
-
-
-The concepts in this course are useful in applications (for example, modern cryptographic systems are based on the math in this course) as well as for providing a rigorous foundation for the teaching of middle- and high-school level mathematics. And, it’s just plain awesome.
-
+However, the concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 able to communicate to your future students not only what the rules are, but why they work. 
   
 Important note:  MTH 350 is a rigorous proof-based course. A prerequisite for this course is MTH 210, and students are expected to enter MTH 350 with at least moderate fluency and skill in reading, analyzing, and writing mathematical proofs, and we will be engaging in these activities almost daily. You need to be comfortable with proof, and either skilled with writing proofs or open to improving your skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
 
@@ -183,5 +179,5 @@ I borrowed a lot from the MTH 201 syllabus of Prof. David Clark.
 ## Appendix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzU4NDcwMV19
+eyJoaXN0b3J5IjpbMTEzMjgxMDgwOF19
 -->
