@@ -16,7 +16,7 @@ MTH 350 takes on two big questions in mathematics:
 1. **How do arithmetic and algebra actually work?** For example, you probably know that every positive integer can be factored into a product of prime numbers, like $20 = 2 \times 2 \times 5$. But can you explain *why* this is true, for *all* positive integers? 
 2. **Can the rules of arithmetic and algebra be extended to mathematical objects that aren't necessarily numbers?** Take multiplication for example. We multiply numbers together, but we multiply things like matrices together too. How much of our rules for multiplication of *numbers*, work for *matrices*? Does matrix multiplication satisfy the commutative property, or the associative property? Can you "divide" matrices? Can we "factor" a matrix into a product of "prime" matrices? Is there even a sensible definition of these concepts? 
 
-This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong skills in mathematical abstraction is perhaps the main goal of this course (which is sometimes called "abstract algebra"). 
+This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong skills in mathematical abstraction is perhaps the main goal of this course (which is sometimes called "abstract algebra"). Abstraction is not something to be feared or avoided! It is to be *embraced*, because **abstraction solves problems**. 
 
 The concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 able to communicate to your future students not only what the rules of algebra *are*, but *why they work*. You'll have the opportunity to explore either of these applications and more as part of the course. 
 
@@ -217,6 +217,6 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTY0NDgyMCw1NzUxNzIyNjksODM2Mj
-g5MjldfQ==
+eyJoaXN0b3J5IjpbMjc5Mzc4NDM2LDU3NTE3MjI2OSw4MzYyOD
+kyOV19
 -->
