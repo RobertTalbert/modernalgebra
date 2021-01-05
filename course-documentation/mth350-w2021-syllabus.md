@@ -124,6 +124,7 @@ Instead of earning partial credit, on most assignments you will have the opportu
 
 Please note: **Revisions of Weekly Practice or Problem Sets marked "X" cost one token** (see below). 
 
+Also please note that **I do not typically look over student work before it is submitted**. Requests to l
 
 **Tokens:** Each student starts the semester with 5 **tokens**, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form (found in the in the *Submit a Form* area on Blackboard), fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or confirmation. Everything listed here costs 1 token: 
 
@@ -217,6 +218,6 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzgwODM2LDI3OTM3ODQzNiw1NzUxNz
-IyNjksODM2Mjg5MjldfQ==
+eyJoaXN0b3J5IjpbMTIxOTU4NTQzNSwxODY3ODA4MzYsMjc5Mz
+c4NDM2LDU3NTE3MjI2OSw4MzYyODkyOV19
 -->
