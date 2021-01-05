@@ -3,7 +3,7 @@ tags: mth350, syllabus
 ---
 
 
-# MTH 350-01: Calculus, Winter 2021
+# MTH 350-01: Modern Algebra 1, Winter 2021
 
 **Welcome to MTH 350**! I'm Dr. Robert Talbert, Professor of Mathematics, and I am grateful that you are signed up for the course and am looking forward to working with you this semester.
 
@@ -217,5 +217,6 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MTcyMjY5LDgzNjI4OTI5XX0=
+eyJoaXN0b3J5IjpbLTQyOTQ0MjExNyw1NzUxNzIyNjksODM2Mj
+g5MjldfQ==
 -->
