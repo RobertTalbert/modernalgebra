@@ -29,7 +29,7 @@ MTH 350 is challenging, made even moreso by the pandemic and the online format o
 ## Key Information 
 
 + **Course mode:** This section of MTH 350 is **synchronous online**, which means we will meet online (through Zoom) at regularly scheduled times. Please note **I do not plan on being on campus this semester**. 
-+ **Class meetings**: TR 11:30-12:45 online. Class sessions will be held on Zoom; the link and passcode are found on Blackboard in the *Syllabus and Calendar* area. You will need to sign in to Zoom to join the meetings. 
++ **Class meetings**: TR 11:30-12:45 online. Class sessions will be held on Zoom; the link and passcode are found on Blackboard in the *Syllabus and Calendar* area. 
 + **Definition of a "week"**: For this class, a "week" runs from 12:01am Eastern time on Monday through 11:59pm Eastern time on the following Sunday. 
 + **Professor contact:** Email at talbertr@gvsu.edu, or direct-message me on Campuswire. If you have a question that the entire class might answer, please post it to the Class Feed on Campuswire instead of in a private message. 
 + **Professor availability:** I check messages regularly between the hours of 7:00am and 5:00pm on weekdays, and once on Saturdays; if you contact me during those hours and your message needs a reply, you can expect to receive one within a few hours, often sooner. *Outside of those hours, particularly on weekends, I am offline and not checking messages.* Please plan accordingly as you schedule your work. 
@@ -217,6 +217,6 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5Mzc4NDM2LDU3NTE3MjI2OSw4MzYyOD
-kyOV19
+eyJoaXN0b3J5IjpbMTg2NzgwODM2LDI3OTM3ODQzNiw1NzUxNz
+IyNjksODM2Mjg5MjldfQ==
 -->
