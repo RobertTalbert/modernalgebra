@@ -124,9 +124,7 @@ Instead of earning partial credit, on most assignments you will have the opportu
 
 Please note: **Revisions of Weekly Practice or Problem Sets marked "X" cost one token** (see below). 
 
-Also please note that **I do not typically look over student work before it is submitted**. Requests to review student work prior to submission will usually be declined. Instead, when you are submitting work, make sure to double-check your work prior to submitting it, to make sure that all required components are present and that, to your un
-
-that all required components are present and that to the best of your understanding your work meets the standards for acceptability. If it then needs revision, you can revise it. 
+Also please note that **I do not typically look over student work before it is submitted**. Requests to review student work prior to submission will usually be declined. Instead, when you are submitting work, make sure to double-check your work prior to submitting it, to make sure that all required components are present and that, to your understanding, your work meets the criteria for acceptable quality. If you submit your work and it needs revision, you can revise it. 
 
 **Tokens:** Each student starts the semester with 5 **tokens**, which can be used to purchase exceptions to the course rules. The token "menu" is below. To spend a token, go to the *Token Spending* form (found in the in the *Submit a Form* area on Blackboard), fill it out, and submit it. Once the form is submitted, the item you purchased is yours; you do not need permission or confirmation. Everything listed here costs 1 token: 
 
@@ -220,6 +218,6 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDcwMDAxOCwxODY3ODA4MzYsMjc5Mz
-c4NDM2LDU3NTE3MjI2OSw4MzYyODkyOV19
+eyJoaXN0b3J5IjpbMTc2Mjk5OTQ2LDE4Njc4MDgzNiwyNzkzNz
+g0MzYsNTc1MTcyMjY5LDgzNjI4OTI5XX0=
 -->
