@@ -2,6 +2,8 @@
 
 ### Conditional statements 
 
+Blackboard quiz 
+
 - Given a conditional statement, identify the hypothesis and conclusion. 
 - Given a conditional statement, state its converse, contrapositive, and negation. 
 - Given a conditional statement that is false, give a counterexample. 
@@ -11,11 +13,15 @@
 
 ### Proof by induction
 
+Blackboard quiz 
+
 - State the definition of a *predicate* and differentiate between a predicate and a statement. 
 - Given a predicate over the natural numbers, determine the truth value of the predicate at a specific number. 
 - Given a proposition to prove that involves a predicate, state the three parts of the **framework** for a proof by mathematical induction: The base case, the inductive hypothesis, and the inductive step. 
 
 ### Set theory  
+
+DONE
 
 - Express a set of objects in both roster and set-builder notation, and convert between those two notations. 
 - Find the intersection, union, and set difference of two sets; and find the complement of a single set. 
@@ -42,5 +48,5 @@
 - Given two complex numbers, find their sum, difference, and product. 
 - Compute the reciprocal of a complex number; and given two complex numbers, divide them and express the quotient as another complex number.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjI5NDQ3XX0=
+eyJoaXN0b3J5IjpbLTI2MzUyOTA3NSwxNTAyMjk0NDddfQ==
 -->
