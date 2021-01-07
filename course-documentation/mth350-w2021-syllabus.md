@@ -89,6 +89,7 @@ The critera for the different marks are explained in the *"How are individual as
 
 Your final grade in the course is determined by the following table. Each grade has a *requirement* specified in its row in the table. **To earn a grade, you will need to meet *all* the requirements in the row for that grade.** Put differently, your grade is the **highest** grade level for which **all** the requirements in a row of the table have been met or exceeded.
 
+
 | Grade | Weekly Practice with M or E | Problem Sets with M or E | Daily Prep Passed |  Workshops Passed | Startup/Review Assignments Passed | Proof Portfolo  and Project | 
 | :---: | :-----------: | :-----------------: | :-----------: | :-------------: | :----------: | :----------: |  :----------: |
 | A | 10 | 5 | 20 | 10 | 6 | Pass on both, High Pass on one | 
