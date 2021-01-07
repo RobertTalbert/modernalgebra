@@ -2,7 +2,8 @@
 
 ### Conditional statements 
 
-Blackboard quiz 
+
+Make up assignment; review videos are done
 
 - Given a conditional statement, identify the hypothesis and conclusion. 
 - Given a conditional statement, state its converse, contrapositive, and negation. 
@@ -13,7 +14,8 @@ Blackboard quiz
 
 ### Proof by induction
 
-Blackboard quiz 
+
+Make up assignment; review videos are done
 
 - State the definition of a *predicate* and differentiate between a predicate and a statement. 
 - Given a predicate over the natural numbers, determine the truth value of the predicate at a specific number. 
@@ -33,11 +35,15 @@ DONE
 
 ### Functions
 
+Make up assignment; review videos are done
+
 - Given a rule of association between two sets, determine if it is a function; if so, then state its domain, codomain, and range. 
 - Given a function between two sets, find the image and preimage of various points. 
 - Given a function between two sets, determine if it is injective (one-to-one), surjective (onto), or bijective. 
 
 ### Matrices and complex numbers
+
+DONE
 
 - Given a matrix, state its size (e.g. $3 \times 4$). 
 - Find the scalar multiple of a matrix. 
@@ -48,5 +54,6 @@ DONE
 - Given two complex numbers, find their sum, difference, and product. 
 - Compute the reciprocal of a complex number; and given two complex numbers, divide them and express the quotient as another complex number.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzUyOTA3NSwxNTAyMjk0NDddfQ==
+eyJoaXN0b3J5IjpbNTU0NzU4MDUwLC0yNjM1MjkwNzUsMTUwMj
+I5NDQ3XX0=
 -->
