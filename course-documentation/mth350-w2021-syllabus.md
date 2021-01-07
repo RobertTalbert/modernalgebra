@@ -36,7 +36,7 @@ MTH 350 is challenging, made even moreso by the pandemic and the online format o
 + **Drop-in hours**: These will be held on Campuswire via Live Sesssions feature. You do *not* need an appointment for drop-in hours. Specific drop-in times will be determined during week 1. 
 + **Textbook**: _Abstract Algebra: An Inquiry-Based Approach_ by Hodge, Schlicker, and Sundstrom. 
 + **Course materials**: All course files, the class calendar, class forms, and most graded assignments are housed on Blackboard (http://mybb.gvsu.edu). 
-+ **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (https://campuswire.com/c/G43C11C2E/). You will also be able to opt in to a service called **Remind** which allows me to push reminders to you via text message. 
++ **Course announcements and communication**: Course announcements, discussion, and other communication will be housed on **Campuswire** (https://campuswire.com/c/G43C11C2E/). You will also be able to use a service called **Remind** which pushes reminders to you via text message. 
 
 ## What will class meetings be like? 
 
@@ -53,7 +53,7 @@ Since you learn math by *doing* math, class time will be prioritized for doing a
 + **Weekly Practice:** Homework sets given weekly that help you build the basic skills needed for understanding the course concepts. There are 12 of these planned. 
 + **Problem Sets:** Extended problem sets, mostly involving writing proofs. Some of these will be used in your Proof Portfolio (below). There are 6 of these planned. 
 + **Daily Prep:** Daily reading and (sometimes) videos, with exercises and questions to be submitted prior to class. These will help you learn the basics of new material and prepare you for higher-level focused work in class. There are 24 of these planned. 
-+ **Workshops:** Weekly discussion threads on Campuswire that will have you collaborate on relevant course-related tasks like analysis of proofs, breakdowns of definitions and theorems, and other activities. 
++ **Workshops:** Weekly discussion threads on Campuswire that will have you collaborate on relevant course-related tasks like analysis of proofs, breakdowns of definitions and theorems, and other activities. There are 12 of these planned. 
 + **Startup and Review Assignments:** Assignments done during the first half of the semester to build (or rebuild) your fluency with the course and the prerequisite mathematics, particularly from MTH 210. There are 6 of these planned. 
 
 There are also two major assignments in the course that only happen once. More information on both of these will be given later in the semester: 
@@ -69,7 +69,7 @@ We *do not* have a final exam in the course; however we will reserve the final e
 
 Your grade in the course is earned by **demonstrating evidence of skill on the main concepts in the course** and by **showing appropriate engagement with the course**. And this is done by completing the assignments outlined above, at a reasonably high level of quality. 
 
-In our class, **there are no points or percentages** on most items. Instead, the work you turn in will be evaluated against **quality standards** that will be made clear on each assignment. If your work meets the standard, then you will receive full credit for it. Otherwise, you will get helpful feedback and, on most items, the chance to reflect on the feedback, revise your work, and then resubmit it for regrading. 
+In our class, **there are no points or percentages** on any items. Instead, the work you turn in will be evaluated against **quality standards** that will be made clear on each assignment. If your work meets the standard, then you will receive full credit for it. Otherwise, you will get helpful feedback and, on most items, the chance to reflect on the feedback, revise your work, and then resubmit it for regrading. 
 
 This feedback loop represents and supports the way that people learn: By trying things, making mistakes, reflecting on those mistakes, and then trying again. **You can make mistakes without penalty** as long as you *eventually* demonstrate evidence of skill. 
 
@@ -77,8 +77,8 @@ The individual types of assignments are marked as follows:
 
 | Assignment | How it's marked | 
 | ---------- | --------------- | 
-| Weekly Practice | E (Excellent), M (Meets Expectations), P (Progressing), or X (Not Assessable) | 
-| Problem Sets | E (Excellent), M (Meets Expectations), P (Progressing), or X (Not Assessable) | 
+| Weekly Practice | **E** (Excellent), **M** (Meets Expectations), **P** (Progressing), or **X** (Not Assessable) | 
+| Problem Sets | **E** (Excellent), **M** (Meets Expectations), **P** (Progressing), or **X** (Not Assessable) | 
 | Daily Prep | **Pass** or **No Pass** | 
 | Workshops | **Pass** or **No Pass** |
 | Startup/Review Assignments | **Pass** or **No Pass** | 
@@ -91,7 +91,7 @@ Your final grade in the course is determined by the following table. Each grade 
 
 | Grade | Weekly Practice (M or E) | Problem Sets (M or E) | Daily Prep passed | Workshops passed |  Proof Portfolio + Project |  Startup/Review passed |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| A | 10 (out of 12) | 5 (out of 6) | 20 (out of 24) | 10 (out of 12) |  Pass on both; High Pass on one | 6 (out of 6) |
+| A | 10 (out of 12) | 5 (out of 6) | 20 (out of 24) | 10 (out of 12) |  Pass on one; High Pass on the other | 6 (out of 6) |
 | B | 9 | 4 | 18 | 8 | Pass on both |  6 |
 | C | 8 | 3 | 16 | 6  | Pass on Proof Portfolio | 6 | 
 | D | 4 | 1 | 10 | 2 | Pass on one | n/a | 
@@ -104,7 +104,7 @@ A grade of F is given if **none** of the rows has been fully completed.
 
 + **Weekly Practice** and **Problem Sets**: Each type has its own standards for "acceptable work" outlined in the "Standards for Grading" document found on Blackboard in the *Syllabus and Calendar* area. The grading process is outlined in the flowchart below: 
 ![EMPX rubric](https://i.ibb.co/0sRwsd6/EMPX-rubric-2021.png)
-+ **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**. In fact one purpose of Daily Preps is to provide me with information about issues that the class is having, prior to class meetings. A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
++ **Daily Prep**: A *Pass* mark is given if the Daily Prep is turned in before its deadline and if *each item* on the Daily Prep has a response that represents a *good faith effort to be right*. **Mistakes are not penalized**.  A *No Pass* is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 + **Workshops:** A *Pass* mark is given if you give a response to the discussion prompt that is correct, clearly expressed, substantive, and given before the discussion is closed. A *No Pass* is given otherwise. 
 + **Startup/Review assignments**: The Pass/No Pass criteria for these are specified on the individual assignments. 
 + **Proof Portfolio** and **Project**: The criteria for the different marks will be given in detail later in the semester. 
@@ -117,7 +117,7 @@ Instead of earning partial credit, on most assignments you will have the opportu
 + **Problem Sets**: Each Problem Set may be revised **once per week**. To revise, simply reflect on the feedback that's given, make corrections or rewrites to the original, and then upload the work again to Blackboard. 
 + **Daily Prep** assignments *may not* be revised or resubmitted. They are graded on completeness and effort only, and therefore can only be done once. 
 + **Workshop** responses will get immediate feedback (privately if necessary) if the response doesn't meet "Pass" quality, and you can fix it on the spot. However you won't be able to go back in and revise a response after the discussion is closed. 
-+ **Startup and Review Assignments**: The revision/reattempt policies for these will be specified on the individual assignments. 
++ **Startup and Review Assignments**: Review assignments consist primarily of online quizzes that can be reattempted as many times as needed prior to their deadlines.  
 + **Proof portfolio:** This will be detailed later in the semester, but your portfolio will consist of work from your Problem Sets, so see the revision policies for those above. 
 + **Project:** The project may not be revised, but checkpoints for your work will be built into the project timeline, so you will have the chance to get feedback and make adjustments as you go. 
 
@@ -158,11 +158,11 @@ You are responsible for understanding this policy and the [GVSU Student Code](ht
 
 Being an online class, we will use a variety of technological tools to learn. 
 
-- You *do not* need a graphing calculator, and we will not use them in the class, but it's OK if you have one. (We will use [Desmos](http://www.desmos.com), a free online graphing tool, instead of graphing calculators.)
-- Instead, you *do need* a **laptop or tablet device** running a **modern web browser** (such as Chrome, Edge, or Firefox) and **reliable access to high-speed internet**. 
+- MTH 350 doesn't focus much on computing things, so graphing calculators are not very useful. It's fine to have one, but you'll probably not use it much. 
+- Instead, you *do need* a **laptop or tablet device** running a **modern web browser** (such as Chrome, Edge, or Firefox) and **reliable access to high-speed internet** so that we can use web-based tools for our work.
 - You also need an **active GVSU network account** so you can access email, Blackboard, and Google Docs. 
 - Preferably, your device should have a **touchscreen** that allows **writing on the screen with a stylus**. If you don't have such a device, consider purchasing a [drawing pad](https://www.amazon.com/customerpicks/Explore-drawing-tablets-for-laptops/424f9b9ace2bfffcb82c) that connects your computer via USB; many are under $50. 
-- The software tools we use in the course are all free and either web-based or available as apps on mutiple platforms. We will introduce and train on these in the first week of classes. 
+- The software tools we use in the course are all free and either web-based or available as apps on mutiple platforms. We will introduce and train on these when needed. 
 
 If you encounter issues with technology, please use the appropriate source of help: 
 
