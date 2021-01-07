@@ -89,12 +89,12 @@ The critera for the different marks are explained in the *"How are individual as
 
 Your final grade in the course is determined by the following table. Each grade has a *requirement* specified in its row in the table. **To earn a grade, you will need to meet *all* the requirements in the row for that grade.** Put differently, your grade is the **highest** grade level for which **all** the requirements in a row of the table have been met or exceeded.
 
-| Grade | Weekly Practice (M or E) | Problem Sets (M or E) | Daily Prep passed | Workshops passed | Startup/Review passed | Proof Portfolio + Project |  
+| Grade | Weekly Practice (M or E) | Problem Sets (M or E) | Daily Prep passed | Workshops passed |  Proof Portfolio + Project |  Startup/Review passed |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| A | 10 (out of 12) | 5 (out of 6) | 20 (out of 24) | 10 (out of 12) | 6 (out of 6) | Pass on both; High Pass on one | 
-| B | 9 | 4 | 18 | 8 | 6 | Pass on both | 
-| C | 8 | 3 | 16 | 6  | 6 | Pass on Proof Portfolio | 
-| D | 4 | 1 | 10 | 2 | n/a | Pass on one | 
+| A | 10 (out of 12) | 5 (out of 6) | 20 (out of 24) | 10 (out of 12) |  Pass on both; High Pass on one | 6 (out of 6) |
+| B | 9 | 4 | 18 | 8 | Pass on both |  6 |
+| C | 8 | 3 | 16 | 6  | Pass on Proof Portfolio | 6 | 
+| D | 4 | 1 | 10 | 2 | Pass on one | n/a | 
 
 A grade of F is given if **none** of the rows has been fully completed. 
 
@@ -217,7 +217,7 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjYxNzQxMCwtOTUyMTI2NzY4LDE4Nj
-c4MDgzNiwyNzkzNzg0MzYsNTc1MTcyMjY5LDgzNjI4OTI5XX0=
-
+eyJoaXN0b3J5IjpbLTE5OTcyNjcxNTgsMTMwMjYxNzQxMCwtOT
+UyMTI2NzY4LDE4Njc4MDgzNiwyNzkzNzg0MzYsNTc1MTcyMjY5
+LDgzNjI4OTI5XX0=
 -->
