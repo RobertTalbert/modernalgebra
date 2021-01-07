@@ -92,6 +92,9 @@ Your final grade in the course is determined by the following table. Each grade 
 | Grade | Weekly Practice (M or E) | Problem Sets (M or E) | Daily Prep passed | Workshops passed | Startup/Review passed | Proof Portfolio + Project |  
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | A | 10 | 5 | 20 | 10 | 6 | Pass on both; High Pass on one | 
+| B | 9 | 4 | 18 | 8 | 6 | Pass on both | 
+| C | 8 | 3 | 16 | 6  | 6 | Pass on Proof Portfolio | 
+| D | 4 | 1 | 10 | 2 | n/a | Pass on one | 
 
 | Grade | Weekly Practice with M or E | Problem Sets with M or E | Daily Prep Passed |  Workshops Passed | Startup/Review Assignments Passed | Proof Portfolo  and Project | 
 | :---: | :-----------: | :-----------------: | :-----------: | :-------------: | :----------: | :----------: |  :----------: |
@@ -222,7 +225,7 @@ Other important dates:
 - Friday April 23 11:59pm Eastern: Deadline for token requests
 - Tuesday April 27: Final Exam period (10:00-11:50, hold for project presentation overflow) and deadline for Proof Portfolio (11:59pm Eastern) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzNDM2MTgyLC05NTIxMjY3NjgsMTg2Nz
-gwODM2LDI3OTM3ODQzNiw1NzUxNzIyNjksODM2Mjg5MjldfQ==
+eyJoaXN0b3J5IjpbMTQzODkxNjc1OCwtOTUyMTI2NzY4LDE4Nj
+c4MDgzNiwyNzkzNzg0MzYsNTc1MTcyMjY5LDgzNjI4OTI5XX0=
 
 -->
