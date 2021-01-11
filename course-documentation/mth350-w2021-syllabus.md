@@ -18,13 +18,30 @@ MTH 350 takes on two big questions in mathematics:
 
 This twofold process of discovering the rules of how something works and then finding out where those rules can be applied, is called **abstraction**. Building strong skills in mathematical abstraction is perhaps the main goal of this course (which is sometimes called "abstract algebra"). Abstraction is not something to be feared or avoided! It is to be *embraced*, because **abstraction solves problems**. 
 
+Specifically, MTH 350 focuses on: 
+
+* **Arithmetic and the theory of numbers.** We'll look closely "under the hood" of what we know about arithmetic and whole numbers. We will build up the rules of arithmetic from a minimal set of axioms and see how and why it all works. 
+* **Rings.** We will then look at the concept of a *ring*, a generalized **algebraic structure** that includes all our familiar number systems but also objects that are *not* numbers. This will allow us to extend the rules of arithmetic to other kinds of things. 
+* **Fields.** As we look at rings, we'll be keeping an eye on rings where something like "division" can be done. Those kinds of structures are called *fields*. 
+
 The concepts in this course are also useful in the real world. For example, most modern cryptographic systems that protect your digital data are based on the math in MTH 350. And if you are a preservice teacher, you will come away from MTH 350 able to communicate to your future students not only what the rules of algebra *are*, but *why they work*. You'll have the opportunity to explore either of these applications and more as part of the course. 
 
-**MTH 350 is a proof-based course.** A prerequisite for this course is MTH 210, and students are expected to enter MTH 350 with at least moderate fluency and skill in reading, analyzing, and writing mathematical proofs, and we will be engaging in these activities almost daily. You need to be comfortable with proof, and either skilled with writing proofs or open to improving your skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
+**MTH 350 is a proof-based course.** A prerequisite for this course is MTH 210, and we will be engaging in proof activities daily. You need to be comfortable with proof and open to improving your proof skills through persistent work in order to succeed in the course. If you are concerned about your preparation regarding proof, please contact me.
 
 MTH 350 is challenging, made even moreso by the pandemic and the online format of the course. However please note that **my primary role in this course is to help you learn and succeed in the course**. Please call on me at any time (see below) if you have any needs whatsoever. 
 
 **Prerequisites:** [MTH 210](https://www.gvsu.edu/catalog/2020-2021/course/mth-210.htm) and either [MTH 225](https://www.gvsu.edu/catalog/2020-2021/course/mth-225.htm) or [MTH 204](https://www.gvsu.edu/catalog/2020-2021/course/mth-204.htm).
+
+## Course Objectives
+
+After successful completion of the course, students will be able to…
+
+1. Write to communicate the topics of abstract algebra using accepted proof writing conventions, explanations, and correct mathematical notation.
+2. Identify fundamental structures of abstract algebra including rings, fields, and integral domains.
+3. Comprehend abstract definitions and theorem statements by building examples and non-examples of definitions, and drawing conclusions using definitions and theorems given mathematical information. 
+4. Demonstrate problem solving skills in the context of abstract algebra topics through consideration of examples, pattern exploration, conjecture, proof construction, and generalization of results.
+5. Analyze similarities and differences between algebraic structures including rings, fields, and integral domains. 
+
 
 ## Key Information 
 
