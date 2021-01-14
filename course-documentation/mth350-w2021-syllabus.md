@@ -173,7 +173,7 @@ You are responsible for understanding this policy and the [GVSU Student Code](ht
 
 ### Technology 
 
-Being an online class, we will use a variety of technological tools to learn. 
+Being an online class, we will use a variety of technological tools to learn. Please review [this list of overall technology requirements for online classes at GVSU](https://www.gvsu.edu/online/technology-requirements-for-onlinehybrid-courses-8.htm). For this class specifically:
 
 - MTH 350 doesn't focus much on computing things, so graphing calculators are not very useful. It's fine to have one, but you'll probably not use it much. 
 - Instead, you *do need* a **laptop or tablet device** running a **modern web browser** (such as Chrome, Edge, or Firefox) and **reliable access to high-speed internet** so that we can use web-based tools for our work.
@@ -190,6 +190,8 @@ If you encounter issues with technology, please use the appropriate source of he
 
 Please note that **I (Prof. Talbert) am not able to provide student tech support** as I do not have access to your accounts or knowledge of your hardware. I can help with questions about course tools (Desmos, etc.) but please ask those questions on Campuswire so others can see and help too. 
 
+**Recordings of online meetings**: We will use technology for live-streaming class meetings, and recordings of these may be made. Our use of such technology is governed by FERPA, the [Acceptable Use Policy](https://www.gvsu.edu/policies/policy.htm?policyId=821DD178-92CC-5C81-65C19EFD76FAC207) and GVSU’s [Student Code of Conduct](https://www.gvsu.edu/policies/category.htm?categoryId=2C706898-FBBE-C50F-09A6D62DEA20957B). A record of all meetings and recordings is kept and stored by GVSU, in accordance with the Acceptable Use Policy and FERPA. I will not share recordings of your class activities outside of course participants, which include your fellow students, advisors, and any guest faculty or community based learning partners that we may engage with. **You may not share recordings outside of this course. Doing so may result in disciplinary action**.
+
 
 ### Getting help and support 
 
@@ -199,9 +201,11 @@ Please note that **I (Prof. Talbert) am not able to provide student tech support
 
 **Gender identity and expression:** If, for purposes of gender identity and expression, your official name (in Banner) does not match your preferred name, your name can be updated in Blackboard. Please contact the registrar's office to submit this request.  The registrar's office will contact the Blackboard administrator to make the change and will also contact your professors to inform them that your name in Banner will not match the name in Blackboard.
 
-### Credits
+### Credits and Disclaimer
 
 I borrowed a lot from the MTH 201 syllabus of Prof. David Clark. 
+
+This course is subject to the GVSU policies listed at http://www.gvsu.edu/coursepolicies/
 
 ---
 
