@@ -1,19 +1,5 @@
 # Items to be ready by Day 1
 
-- Syllabus
-- Calendar
-- Blackboard site shell
-- Campuswire 
-- Startup bundles 
-	- Onboarding
-	- Tools 
-- Review assignments
-	- Proof basics: What is/is not a proof and basics of proof writing 
-	- Proving conditional statements incl. proof by contradiction
-	- Proof by induction
-	- Set theory and logic 
-	- Functions
-	- Matrices and complex numbers
 - First 3-4 workshops
 - First 3-4 reflections assignments 
 - Problem sets 1-3 and more
@@ -35,5 +21,5 @@ Video content:
 - Welcome video 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNTQwODUxXX0=
+eyJoaXN0b3J5IjpbLTEwMTc5ODI4NDIsODMzNTQwODUxXX0=
 -->
