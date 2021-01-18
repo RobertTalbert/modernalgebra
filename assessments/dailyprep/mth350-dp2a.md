@@ -12,15 +12,19 @@ Now that we've established the basic axioms for integer arithmetic and ordering,
 + State the *Division Algorithm*; apply it to identify the quotient and remainder when dividing one integer by another. 
 + State the *Well-Ordering Principle*. 
 
-
 **Advanced Learning Objectives:** *During and after* our class meeting, we will work on learning the following. Fluency with these is not required prior to class. 
+
++ Write a proof of the Division Algorithm. 
++ Explain line-by-line the proof of the Division Algorithm. 
 
 
 ## Resources for learning
 
-**Reading:** Read through Investigation X (pp. y--z) in the textbook. 
+**Reading:** Read through Investigation 2, just pages 11--17  in the textbook. 
 
-**Video:** 
+**Video:** Watch the following videos, total running time
+
++ 
 
 **Other:** 
 
@@ -36,5 +40,5 @@ To submit your work, simply submit the Google Form. You will receive a receipt v
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNjQ0NzAwXX0=
+eyJoaXN0b3J5IjpbMTU3ODkxMzIxOV19
 -->
