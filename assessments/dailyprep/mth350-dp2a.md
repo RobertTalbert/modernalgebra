@@ -22,12 +22,11 @@ Now that we've established the basic axioms for integer arithmetic and ordering,
 
 **Reading:** Read through Investigation 2, just pages 11--17  in the textbook. 
 
-**Video:** Watch the following videos, total running time
+**Video:** Watch the following videos, total running time 15:44. 
 
 + Integer divisibility (from the MTH 210 playlist): https://youtu.be/dIfpZzX7bKo (8:53)
-+ 
++ The Division Algorithm (also from MTH 210): https://youtu.be/XHjSy_MT7u0 (6:51)
 
-**Other:** 
 
 ## Exercises 
 
@@ -41,5 +40,5 @@ To submit your work, simply submit the Google Form. You will receive a receipt v
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NTEwODY5XX0=
+eyJoaXN0b3J5IjpbLTExMDM3NjUwMDJdfQ==
 -->
