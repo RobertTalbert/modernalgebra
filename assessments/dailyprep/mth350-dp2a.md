@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Now that we
+Now that we've established the basic axioms for integer arithmetic and ordering, we will take a deep look at **integer division**. We'll begin by defining what it means for one integer to divide another (without talking about fractions!) and move toward 
 
 ## Learning objectives 
 
@@ -32,5 +32,5 @@ To submit your work, simply submit the Google Form. You will receive a receipt v
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTE4MDkxN119
+eyJoaXN0b3J5IjpbLTIxMDU0ODM5NTFdfQ==
 -->
