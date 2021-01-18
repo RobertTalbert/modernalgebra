@@ -2,6 +2,8 @@
 
 ## Overview 
 
+Now that we
+
 ## Learning objectives 
 
 **Basic Learning Objectives:** *Before* our class meeting, use the Resources listed below to learn all of the following. You should be reasonably fluent with all of these tasks prior to our meeting; we will field questions on these, but they will not be retaught. 
@@ -30,5 +32,5 @@ To submit your work, simply submit the Google Form. You will receive a receipt v
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzNTMzNzY2XX0=
+eyJoaXN0b3J5IjpbLTg2NTE4MDkxN119
 -->
