@@ -4,6 +4,9 @@ tags: mth350, dailyprep
 
 # Daily Prep 2B -- MTH 350-01
 
+
+
+
 ## Overview 
 
 Last time, we defined what it means for an integer to *divide* another integer and began a proof of the *Division Algorithm*. In Module 2B we will complete this proof and introduce the central concept of **integer congruence**. 
@@ -45,6 +48,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSdzMPahWcwBGiHqL0kVcXyafZM_9DrAyv3xclye
 To submit your work, simply submit the Google Form. You will receive a receipt via email to confirm your submission. (Look in your spam folders if you do not see the receipt.) 
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
+
+
+[![hackmd-github-sync-badge](https://hackmd.io/4b096bEnTXWWRWUOyR995g/badge)](https://hackmd.io/4b096bEnTXWWRWUOyR995g)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODY1NDcyNzQ1LC0xMTAzNzY1MDAyXX0=
 -->
+
