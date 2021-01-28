@@ -6,7 +6,7 @@ tags: mth350, dailyprep
 
 ## Overview 
 
-In Module 3 we'll be taking a look at a simple concept that has an impact beyond what you might expect -- the idea of the **greatest commo n divisor** (GCD) of two integers. We all learned how to find the GCD of two integers in elementary school, but the simplicity of the concept makes it a core tool for algebra moving forward. We'll be looking at a wide variety of mathematical results that pertain to the GCD, especially **Bezout's Identity** which states that every pair of integers can be written in a "linear combination" that equals their GCD. Along the way we meet two important algorithms: The **Euclidean Algorithm** and the **Extended Euclidean Algorithm**. 
+In Module 3 we'll be taking a look at a simple concept that has an impact beyond what you might expect -- the idea of the **greatest common divisor** (GCD) of two integers. We all learned how to find the GCD of two integers in elementary school, but the simplicity of the concept makes it a core tool for algebra moving forward. We'll be looking at a wide variety of mathematical results that pertain to the GCD, especially **Bezout's Identity** which states that every pair of integers can be written in a "linear combination" that equals their GCD. Along the way we meet two important algorithms: The **Euclidean Algorithm** and the **Extended Euclidean Algorithm**. 
 
 ## Learning objectives 
 
@@ -54,3 +54,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSe604JahDb2hhctrcw7DpONyokLTIn8z31AvOvM
 To submit your work, simply submit the Google Form. You will receive a receipt via email to confirm your submission. (Look in your spam folders if you do not see the receipt.) 
 
 A **Pass** mark is given if the Daily Prep is turned in before its deadline and if each item on the Daily Prep has a response that represents a good faith effort to be right. **Mistakes are not penalized**. A **No Pass** is given if an item is left blank (even accidentally), has an answer but it shows insufficient effort (including responses like "I don't know"), or if the Daily Prep is late.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU0NTM5OTk0Ml19
+-->
