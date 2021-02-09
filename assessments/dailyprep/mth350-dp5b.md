@@ -34,7 +34,7 @@ We've introduced a major character in MTH 350, namely $\mathbb{Z}_n$, or the set
 
 The exercises for this Daily Prep are found on the Google Form: 
 
-
+https://docs.google.com/forms/d/e/1FAIpQLSdcNZMT3frKuGpCON4tfatk-1Vdt1vUOQwh319fiBV9QGhuyw/viewform
 
 ## Submission and grading 
 
