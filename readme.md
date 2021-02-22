@@ -6,6 +6,9 @@ The top-level directory contains materials for the most recent iteration of the 
 
 ## What's in this repository
 
+- `assessments`: Daily Prep activities, Problem Sets, and Weekly Practice sets. 
 - `course-documentation`: Syllabus, learning targets, grading specifications, and other basic documentation
 - `design-notes`: Sketches and notes for the course design from December/January 
+- `mth410` archival material from the last time I taught the sequel to this course (MTH 410, now MTH 450)
+- `slides`: PDF's of class activity slides 
 
