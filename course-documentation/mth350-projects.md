@@ -19,8 +19,9 @@ Done well and with the right mindset, the topic you learn about in your project 
 In your project, you'll choose a topic (see below for a list of suggestions) that is of a sufficient level of depth (not so deep that you can't complete the work, not so shallow that it doesn't stretch you) and learn about it. The project itself will consist of three parts: 
 
 1. **A paper**. You will write a 5-8 page paper with references, aimed an audience of your MTH 350 peers --- people who know the concepts from the course but have no familiarity otherwise with your topic. 
-2. **A presentation to the class**. You'll also craft a presentation, between 5 and 10 minutes in length, that serves as a very brief lesson about your topic. This is not just a read-through or summary of your paper (boring!) but rather an engaging, interesting "remix" of your paper that brings your research to life for 5-10 minutes. These presentations will take place during class time on April 20 and 22, as well as during our final exam period from 10:00-11:50am on April 27. 
-3. **A video trailer**. Finally, you'll be making a video trailer for your project, like the trailer for a movie, of length somewhere between 1 and 2 minutes. This should be like an advertisement for your project that gets people interested in learning more about it. 
+2. **A presentation to the class**. You'll also craft a presentation, between 5 and 10 minutes in length, that serves as a very brief lesson about your topic. This is not just a read-through or summary of your paper (boring!) but rather an engaging, interesting "remix" of your paper that brings your research to life for 5-10 minutes. These presentations will take place during class time on April 20 and 22, as well as during our final exam period from 10:00-11:50am on April 27.
+ 
+~~3. **A video trailer**. Finally, you'll be making a video trailer for your project, like the trailer for a movie, of length somewhere between 1 and 2 minutes. This should be like an advertisement for your project that gets people interested in learning more about it.~~ **EDIT: Removed on 2021-03-10** 
 
 **Projects may be done individually or in two-person teams.** Teams of 3 or larger are not permitted. 
 
@@ -36,7 +37,7 @@ Putting together a project is a complex process with many moving parts. **Keepin
 - **March 29-April 2:** Feedback given on the first draft of the paper, and check-ins. Youll be getting feedback from me on your paper, and you'll be required to attend a 10-15 meeting with me to discuss that feedback as well as any questions you have about the rest of the project moving forward. 
 - **April 9:** Second draft of paper due. 
 - **April 12-16:** Feedback given on the second draft of your paper, and optional check-ins during which you can meet with me (Talbert) to discuss any aspect of the project you want. 
-- **April 15:** Trailers are due.
+- ~~**April 15:** Trailers are due.~~
 - **April 20, 22, and 27**: Project presentations. 
 
 These dates are on the Class Calendar. 
@@ -63,12 +64,8 @@ To earn a **Pass** mark:
     + Demonstrate a sound grasp of the mathematics involved, and explains the mathematics involved in a way that the target audience can easily understand. 
     + **NOT** just recite from the paper or work through mathematical computations! 
     + Contain appropriate levels of mathematical content --- not too much, but also not too little.
-+ The **trailer** must: 
-    + Be between 1 and 2 minutes in length and submitted on time in an appropriate file format. 
-    + Give an overview of the project that is coherent, relevant, and appropriate. 
-    + Clearly communicate the main questions under consideration. 
-    + Have no factual or mathematical errors in it. 
-    + Be produced with good audio and video quality. 
+
+(**EDIT: Trailer requirement removed on 2021-03-10**)
 
 To earn a **High Pass** mark, your work has to meet all of the specifications above, as well as several of the following: 
 
@@ -82,11 +79,25 @@ To earn a **High Pass** mark, your work has to meet all of the specifications ab
     + Guides the audience through the ideas of the project with a strong and coherent narrative. 
     + Does more than just summarize or recite from the paper, but presents it in a way that effectively utilizes oral and visual communication. 
     + Demonstrates a strong grasp of the mathematical content and the ability to commnicate it cleary to the target audience. 
-+ The **trailer:**
-    + Uses creative visual or audio effects (without going overboard). 
-    + Communicates the enthusiasm of the authors and makes the viewer want to learn more. 
+
+(**EDIT: Trailer requirement removed on 2021-03-10**)
 
 You will have the opportunity at all points in the timeline to get feedback on your work in progress, so that if you are missing some key piece of earning a **Pass** mark, you'll know about it early enough to make changes. All marks are made using the professor's professional judgment based on the evidence provided by the work. 
+
+:::warning
+**Additional requirements for Pass and High Pass**
+
+- A **High Pass** requires: 
+    - The topic must be formally claimed by **5:00pm Eastern time** on **Friday, March 5**. 
+    - The initial check-in meeting must be held, not just scheduled, by **5:00pm Eastern on Wednesday, March 10**. 
+    - The second check-in meeting must be held, not just scheduled, by **5:00pm Eastern on Friday, April 2**. 
+    - **All other deadlines must be met.** 
+- A **Pass** requires:      
+    - The topic must be formally claimed by **5:00pm Eastern time** on **Friday, March 5**. 
+    - The initial check-in meeting must be held, not just scheduled, by **5:00pm Eastern on Wednesday, March 10**. 
+    - The second check-in meeting must be held, not just scheduled, by **5:00pm Eastern on Friday, April 2**.
+    - All of the other deadlines **with one exception of your choice** must be met, and the one deadline that is not met cannot be exceeded by more than 24 hours.
+:::
 
 
 Additionally, **no part of your project can violate the rules of academic honesty of the course or of GVSU**. Plagiarism and the like will be rigorously punished on this project. Please see the section on "Academic Honesty" below. 
