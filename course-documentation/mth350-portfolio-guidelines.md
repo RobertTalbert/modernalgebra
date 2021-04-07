@@ -20,29 +20,29 @@ On each of our six Problem Sets, there is at least one and usually more than one
 
 **NOTE: This was updated on 2021-03-26.**
 
-- A collection of **six starred problems** selected from the Problem Sets, that you consider to be your best work. You have free choice as to which problems are included, but *you must include at least one starred problem from each of the six problem sets*. 
-- Additionally, if you are attempting to earn a **High Pass** mark on the portfolio (see below), then you will choose **two more** starred problems from the Problem Sets and include those as well. These two additional problems *may not* be selected from the same problem set. 
+- A collection of **sixeight starred problems** selected from the Problem Sets, that you consider to be your best work. You have free choice as to which problems are included, but *you must includsubject to two constraints: (1) *there must be at least one starred problem included from each of the six pProblem sSets*. 
+- Additionally, if you are attempting to earn a **High Pass** mark on the portfolio (see below),*, and (2) *no more thean you will choose **two more**two starred problems from theany given Problem Sets and may be include those as well. These two additional problems *may not* be selected from the same problem setd*. 
 - The portfolio will also ask you to include some reflections on the work that you are including, especially regarding how you improved your work over time through the revision process and what you learned by doing so. Details on this added material will be given around week 9--10 of the semester. **(NEW: [See below](https://hackmd.io/DvziySGGTKm_jPPXRVLgSw?both#Reflection-Items-to-include-with-your-portfolio) for these reflection items.)**
 
 The entire package of your portfolio problems and the additional material will be submitted as a PDF on Blackboard, with a deadline of **11:59pm Eastern on Tuesday, April 27**. 
 
 ## How to put your portfolio together
 
-(**UPDATED 2021-03-26**) You have six Problem Sets to do throughout the semester, due roughly every two weeks. Each one has at least one starred problem on it, and you will  be asked to do just one starred problem per Problem Set. This means that the basic six problems for your portfolio will simply be pulled from the work on problem sets you are already doing. If you are opting into earning a **High Pass** grade, you'll be choosing two more problems from this group to do. Again, those two additional problems must be picked from different sets. 
+(**UPDATED 2021-03-26**) You have six Problem Sets to do throughout the semester, due roughly every two weeks. Each one has at least one starred problem on it, and you will typically be asked to do just one starred problem per Problem Set. This means that the basic six problems for your psix of the eight problems in the Portfolio will come simply be pulled from thefrom completing your normal work on pProblem sSets you are already doing. If you are opting into earning a **High Pass** grade, you'll be. **To get *eight* problems in the Portfolio, you will need to choosinge two mother starred problems from this group to do. Again, those two additional problems must be picked from different sthat you *didn't* do as part of a Problem Set and work those out separately.** You have free choice as to which ones you do; only remember that you can pick no more than two problems from any given Problem Sets. 
 
-You will be evaluated and get feedback on the six problems that come from your Problem Set work, in the normal course of getting a mark on those Problem Sets. If you are attempting a **High Pass** mark and are submitting additional problems, **you may submit your work on those to me (Talbert) at any time through email**, and I will evaluate them and give you constructive feedback and a mark of E, M, P, or X just like Problem Set problems; this mark does not count toward any grade, but is just for your information to get a sense of what you might need to improve on your work. There are no deadlines for completing those two additional problems other than the April 27 deadline. 
+You will be evaluated and get feedback on the six problems that come from your Problem Set work, in the normal course of getting a mark on those Problem Sets. If you are attempting a **High Pass** mark and are submittingFor the additional two problems, **you may submit your work on those to me (Talbert) at any time through email**, and I will evaluate them and give you constructive feedback and a mark of E, M, P, or X just like Problem Set problems; this mark does not count toward any grade, but is just for your information to get a sense of what you might need to improve on your work. There are no deadlines for completing those two additional problems other than the April 27 deadline. 
 
 
 ## How your portfolio will be evaluated 
 
-As [mentioned in the syllabus](https://hackmd.io/@rtalbert235/HyqkgcE0P#How-do-I-earn-a-grade-in-the-course), Portfolios are marked **High Pass**, **Pass**, or **No Pass**. The criteria for each mark are as follows: 
+As [mentioned in the syllabus](https://hackmd.io/@rtalbert235/HyqkgcE0P#How-do-I-earn-a-grade-in-the-course), Portfolios are marked **High Pass** **No Pass**, **Pass**, or **NoHigh Pass**. The criteria for each mark are as follows: 
 
 (**UPDATED 2021-03-26**)
 
 | Mark | Criteria | 
 | ---- | -------- | 
 | **High Pass** | Eight problems are submitted, including one from each Problem Set and no more than two from any single Problem Set. Each of the eight problems meets the standard for a mark of **M** on Problem Sets, and additionally at least four of the problems meet the standard for a mark of **E**. Finally the additional reflection material is well written. | 
-| **Pass** | At least six problems are submitted, one from each Problem Set. Each problem submitted meets the standard for a mark of **M** on Problem Sets, and the additional reflection material is well written. | 
+| **Pass** | At least six problems are submitted, one from each Problem Set. Each problem submittedEach of the eight problems meets the standard for a mark of **M** on Problem Sets, and the additional reflection material is well written. | 
 | **No Pass** | The requirements for **Pass** are not met. For example: there are fewer than eight problems submitted; or the reflection material is incomplete or poorly written; or at least one of the problems submitted does not meet the requirements for a mark of **M**. | 
 
 Specific criteria for the additional reflection material (what constitutes "well written") will be given when that material is announced later. 
@@ -74,4 +74,7 @@ Along with the problems you submit for your portfolio, include the following:
 + **Changing problems is not recommended.** This is because it shortens the amount of time you have for doing revisions of work. If you do a problem in Problem Set 3, then you have half the semester to revise and resubmit your work repeatedly until it meets the grading standard; but if you abandon it and switch to a new problem in week 12, then you have *two weeks* to do so. It's better to simply persist with a problem until you've cracked it. 
 
 
-[![hackmd-github-sync-badge](https://hackmd.io/DvziySGGTKm_jPPXRVLgSw/badge)](https://hackmd.io/DvziySGGTKm_jPPXRVLgSw)
+[![hackmd-github-sync-badge](https://hackmd.io/DvziySGGTKm_jPPXRVLgSw/badge)](https://hackmd.io/DvziySGGTKm_jPPXRVLgSw). 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4MzUwNjkzMzFdfQ==
+-->
